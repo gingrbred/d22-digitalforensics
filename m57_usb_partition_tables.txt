@@ -1,0 +1,39 @@
+//charlie work usb
+DOS Partition Table
+Offset Sector: 0
+Units are in 512-byte sectors
+
+      Slot      Start        End          Length       Description
+000:  Meta      0000000000   0000000000   0000000001   Primary Table (#0)
+001:  -------   0000000000   0000000000   0000000001   Unallocated
+002:  000:000   0000000001   0002068479   0002068479   NTFS / exFAT (0x07)
+//jo fav usb
+DOS Partition Table
+Offset Sector: 0
+Units are in 512-byte sectors
+
+      Slot      Start        End          Length       Description
+000:  Meta      0000000000   0000000000   0000000001   Primary Table (#0)
+001:  -------   0000000000   0000000062   0000000063   Unallocated
+002:  000:000   0000000063   0002047940   0002047878   Win95 FAT32 (0x0b)
+003:  -------   0002047941   0002047999   0000000059   Unallocated
+//jo work usb
+DOS Partition Table
+Offset Sector: 0
+Units are in 512-byte sectors
+
+      Slot      Start        End          Length       Description
+000:  Meta      0000000000   0000000000   0000000001   Primary Table (#0)
+001:  -------   0000000000   0000000062   0000000063   Unallocated
+002:  000:000   0000000063   0000255968   0000255906   Win95 FAT32 (0x0b)
+003:  -------   0000255969   0000255999   0000000031   Unallocated
+//terry work usb
+DOS Partition Table
+Offset Sector: 0
+Units are in 512-byte sectors
+
+      Slot      Start        End          Length       Description
+000:  Meta      0000000000   0000000000   0000000001   Primary Table (#0)
+001:  -------   0000000000   0000000062   0000000063   Unallocated
+002:  000:000   0000000063   0004095944   0004095882   Win95 FAT32 (0x0b)
+003:  -------   0004095945   0004095999   0000000055   Unallocated
