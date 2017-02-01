@@ -671,7 +671,7 @@ d/d 3657-144-6:	Documents and Settings
 +++++++ r/r 11580-128-4:	ExecutableEvents.xml
 +++++++ r/r 11581-128-4:	FileCoverage.xml
 +++++++ r/r 11595-128-4:	internalListStrings.xml
-+++++++ r/r 11596-128-3:	messages.xml
++++++++ r/r 11596-128-3:	messages.xml //##check later##\\
 +++++++ r/r 11597-128-3:	msvcp71.dll
 +++++++ r/r 11598-128-3:	msvcr71.dll
 +++++++ r/r 11582-128-4:	NetworkEvents.xml
@@ -1349,7 +1349,7 @@ d/d 3657-144-6:	Documents and Settings
 ++++++ r/r 17373-128-4:	donate[1].png
 ++++++ r/r 10809-128-4:	driverslist[1].aspx
 ++++++ r/r 10811-128-5:	driverslist[1].htm
-++++++ r/r 17223-128-4:	EFAF8AEAE1AA4A20DAA05B328F20A1[1].jpg
+++++++ r/r 17223-128-4:	EFAF8AEAE1AA4A20DAA05B328F20A1[1].jpg //##check later##\\
 ++++++ r/r 10794-128-1:	errorclose[1].gif
 ++++++ r/r 17357-128-4:	faq[1].css
 ++++++ r/r 17330-128-4:	favicon[1].ico
@@ -1360,8 +1360,8 @@ d/d 3657-144-6:	Documents and Settings
 ++++++ r/r 12162-128-4:	au_shieldyellow[1].gif
 ++++++ r/r 22716-128-1:	banner-bg[2].jpg
 ++++++ r/r 23221-128-5:	body[1]
-++++++ r/r 17211-128-4:	CB8BB2CC42918D1BD1F82BD5C7221[1].jpg
-++++++ r/r 17186-128-4:	cd7a3cd7-2933-4dc8-9d15-c06808dc0a27[1].jpg
+++++++ r/r 17211-128-4:	CB8BB2CC42918D1BD1F82BD5C7221[1].jpg	//##check later##\\
+++++++ r/r 17186-128-4:	cd7a3cd7-2933-4dc8-9d15-c06808dc0a27[1].jpg	//##check later##\\
 ++++++ r/r 17382-128-4:	collabnet-logo[1].png
 ++++++ r/r 12110-128-4:	content[1].js
 ++++++ r/r 17335-128-4:	download-bg[1].png
@@ -1556,7 +1556,7 @@ d/d 3657-144-6:	Documents and Settings
 ++ d/d 10412-144-1:	Recent
 +++ r/r 10556-128-1:	Desktop.ini
 ++ d/d 10411-144-5:	SendTo
-+++ r/r 10479-128-3:	Compressed (zipped) Folder.ZFSendToTarget
++++ r/r 10479-128-3:	Compressed (zipped) Folder.ZFSendToTarget 
 +++ r/r 10476-128-3:	Desktop (create shortcut).DeskLink
 +++ r/r 10475-128-3:	desktop.ini
 +++ r/r 10474-128-3:	Mail Recipient.MAPIMail
@@ -3154,32 +3154,32 @@ d/d 3657-144-6:	Documents and Settings
 ++++ r/r 24427-128-3:	profiles.ini
 ++++ r/r 24426-128-1:	registry.dat
 ++ d/d 23289-144-6:	Cookies
-+++ r/r 24219-128-1:	charlie@microsoft[2].txt
-+++ r/r 24094-128-1:	charlie@ad.yieldmanager[2].txt
-+++ r/r 24083-128-1:	charlie@atdmt[1].txt
-+++ r/r 24077-128-1:	charlie@c.msn[1].txt
-+++ r/r 24177-128-1:	charlie@doubleclick[1].txt
-+++ r/r 24209-128-1:	charlie@download.mozilla[1].txt
-+++ r/r 24097-128-1:	charlie@fastclick[1].txt
-+++ r/r 24253-128-1:	charlie@google[1].txt
-+++ r/r 24257-128-1:	charlie@google[2].txt
-+++ r/r 24231-128-1:	charlie@interclick[2].txt
-+++ r/r 24185-128-1:	charlie@live[1].txt
-+++ r/r 24200-128-1:	charlie@www.microsoft[1].txt
-+++ r/- * 24258:	charlie@www.mozilla[1].txt
-+++ r/r 24116-128-1:	charlie@www.msn[1].txt
++++ r/r 24219-128-1:	charlie@microsoft[2].txt	//##check later##\\
++++ r/r 24094-128-1:	charlie@ad.yieldmanager[2].txt	//##check later##\\
++++ r/r 24083-128-1:	charlie@atdmt[1].txt		//##check later##\\
++++ r/r 24077-128-1:	charlie@c.msn[1].txt		//##check later##\\
++++ r/r 24177-128-1:	charlie@doubleclick[1].txt	//##check later##\\
++++ r/r 24209-128-1:	charlie@download.mozilla[1].txt //##check later##\\
++++ r/r 24097-128-1:	charlie@fastclick[1].txt	//##check later##\\
++++ r/r 24253-128-1:	charlie@google[1].txt		//##check later##\\
++++ r/r 24257-128-1:	charlie@google[2].txt		//##check later##\\
++++ r/r 24231-128-1:	charlie@interclick[2].txt	//##check later##\\
++++ r/r 24185-128-1:	charlie@live[1].txt		//##check later##\\
++++ r/r 24200-128-1:	charlie@www.microsoft[1].txt	//##check later##\\
++++ r/- * 24258:	charlie@www.mozilla[1].txt	//##check later##\\
++++ r/r 24116-128-1:	charlie@www.msn[1].txt		//##check later##\\
 +++ r/r 23348-128-4:	index.dat
-+++ r/r 24176-128-1:	charlie@mozilla[2].txt
-+++ r/r 24163-128-1:	charlie@msnportal.112.2o7[1].txt
-+++ r/r 24146-128-1:	charlie@msn[1].txt
-+++ r/r 24147-128-4:	charlie@rad.msn[2].txt
-+++ r/r 24302-128-1:	charlie@www.mozilla[1].txt
++++ r/r 24176-128-1:	charlie@mozilla[2].txt		//##check later##\\
++++ r/r 24163-128-1:	charlie@msnportal.112.2o7[1].txt//##check later##\\
++++ r/r 24146-128-1:	charlie@msn[1].txt		//##check later##\\
++++ r/r 24147-128-4:	charlie@rad.msn[2].txt		//##check later##\\
++++ r/r 24302-128-1:	charlie@www.mozilla[1].txt	//##check later##\\
 ++ d/d 23288-144-1:	Desktop
 +++ d/d 28343-144-7:	web
 ++++ r/r 28344-128-4:	patentauto.py
-++++ r/r 28350-128-1:	patentterms.txt
+++++ r/r 28350-128-1:	patentterms.txt			//##check later##\\
 ++++ r/r 28352-128-4:	urls.txt
-++++ r/r 28351-128-4:	urlscopyright.txt
+++++ r/r 28351-128-4:	urlscopyright.txt		//##check later##\\
 ++++ r/r 28353-128-4:	urlspatents.txt
 ++++ r/r 28355-128-4:	urlspersona.txt
 ++++ r/r 28354-128-4:	urlstime_machine.txt
@@ -7293,7 +7293,7 @@ d/d 4126-144-6:	Program Files
 ++++++ r/r 20598-128-3:	dumbdbm.py
 ++++++ r/r 20400-128-4:	dummy_thread.py
 ++++++ r/r 20367-128-4:	dummy_threading.py
-++++++ d/d 21317-144-5:	email
+++++++ d/d 21317-144-5:	email				//##!!Important!! pls check##\\
 +++++++ r/r 21341-128-4:	base64mime.py
 +++++++ r/r 21333-128-3:	charset.py
 +++++++ r/r 21340-128-3:	encoders.py
@@ -8525,7 +8525,7 @@ d/d 4126-144-6:	Program Files
 ++++++ r/r 19058-128-1:	s_flower.bmp
 ++++++ r/r 19059-128-3:	s_ghost.bmp
 ++++++ r/r 19060-128-3:	s_group.bmp
-++++++ r/- * 0:	s_halloween.bmp
+++++++ r/- * 0:	s_halloween.bmp		//##chech this##\\
 ++++++ r/r 19062-128-3:	s_heart.bmp
 ++++++ r/r 19063-128-3:	s_home.bmp
 ++++++ r/r 19064-128-3:	s_lock.bmp
@@ -17274,7 +17274,7 @@ d/d 28-144-6:	WINDOWS
 ++++++++ r/r 7397-128-1:	outlook_express.gif
 ++++++++ r/r 7395-128-1:	square_bullet.gif
 +++++++ d/d 7402-144-5:	Email
-++++++++ r/r 7413-128-1:	check.gif
+++++++++ r/r 7413-128-1:	check.gif		//##chech this##\\
 ++++++++ r/r 7416-128-4:	escalationhelp.htm
 ++++++++ r/r 7414-128-1:	help.gif
 ++++++++ r/r 7412-128-4:	rcDetails.htm
@@ -17287,7 +17287,7 @@ d/d 28-144-6:	WINDOWS
 ++++++++ r/r 7410-128-4:	rcscreen8.htm
 ++++++++ r/r 7411-128-4:	rcscreen9.htm
 ++++++++ r/r 7415-128-4:	rcscreenshot3.gif
-++++++++ r/r 7406-128-4:	ShieldsUpMsg.htm
+++++++++ r/r 7406-128-4:	ShieldsUpMsg.htm	//##chech this##\\
 +++++++ d/d 7417-144-1:	Unsolicited
 ++++++++ r/r 7418-128-4:	UnSolicitedRCUI.htm
 ++++++ r/r 7372-128-3:	rcstatus.htm
@@ -17458,14 +17458,14 @@ d/d 28-144-6:	WINDOWS
 +++ r/r 3224-128-3:	wirelessprofile.xdr
 +++ r/r 3223-128-3:	wizard.xdr
 + r/r 2110-128-3:	regedit.exe
-+ d/d 5494-144-6:	Registration
++ d/d 5494-144-6:	Registration	//##chech this##\\
 ++ d/d 5495-144-1:	CRMLog
 ++ r/r 7529-128-4:	R000000000006.clb
 ++ r/r 7530-128-4:	R000000000007.clb
 ++ r/r 7526-128-4:	{02D4B3F1-FD88-11D1-960D-00805FC79235}.{DC6849CD-4A56-493A-8A2C-F5D1C6FE58AA}.crmlog
-+ r/r 5149-128-3:	Rhododendron.bmp
++ r/r 5149-128-3:	Rhododendron.bmp	//##chech this##\\
 + r/r 5150-128-3:	River Sumida.bmp
-+ r/r 5151-128-3:	Santa Fe Stucco.bmp
++ r/r 5151-128-3:	Santa Fe Stucco.bmp	//##chech this##\\
 + d/d 67-144-5:	security
 ++ d/d 4212-144-1:	Database
 +++ r/r 4213-128-3:	secedit.sdb
