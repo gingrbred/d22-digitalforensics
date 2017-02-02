@@ -1,0 +1,2134 @@
+From - Mon Nov 16 11:47:07 2009
+X-Account-Key: account2
+X-UIDL: 1258398111.V13I4e44a76M544121.homiemail-mx12
+X-Mozilla-Status: 0003
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <pat@m57.biz>
+X-Original-To: charlie@m57.biz
+Delivered-To: x10025127@homiemail-mx12.g.dreamhost.com
+Received: from mustang.nps.edu (mustang.nps.edu [205.155.65.61])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by homiemail-mx12.g.dreamhost.com (Postfix) with ESMTPS id 6EEB1278064
+	for <charlie@m57.biz>; Mon, 16 Nov 2009 11:01:51 -0800 (PST)
+X-ASG-Debug-ID: 1258398110-104502820000-zVRvyy
+X-Barracuda-URL: http://mustang.nps.edu:80/cgi-bin/mark.cgi
+Received: from domex (localhost [127.0.0.1])
+	by mustang.nps.edu (Spam & Virus Firewall) with ESMTP
+	id BC0869909C9; Mon, 16 Nov 2009 11:01:50 -0800 (PST)
+Received: from domex (domex.nps.edu [205.155.65.103]) by mustang.nps.edu with ESMTP id cIWTv1GeBxhYV1Sx; Mon, 16 Nov 2009 11:01:50 -0800 (PST)
+X-Barracuda-Envelope-From: pat@m57.biz
+Received: from localhost (localhost [127.0.0.1])
+	by domex (Postfix) with ESMTP id 6736F26A675;
+	Mon, 16 Nov 2009 10:59:00 -0800 (PST)
+X-Virus-Scanned: amavisd-new at nps.edu
+Received: from domex ([127.0.0.1])
+	by localhost (domex.nps.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 4BG9b9Wo8KfX; Mon, 16 Nov 2009 10:59:00 -0800 (PST)
+Received: from m57pat (unknown [192.168.1.103])
+	by domex (Postfix) with ESMTPS id 4D1C126A66C;
+	Mon, 16 Nov 2009 10:59:00 -0800 (PST)
+Message-ID: <3EFDEF3C553C40EBB543C1D3CB07CA6F@m57pat>
+From: "Pat McGoo" <pat@m57.biz>
+To: <charlie@m57.biz>,
+	<jo@m57.biz>,
+	<terry@m57.biz>
+X-ASG-Orig-Subj: WELCOME TO THE COMPANY!
+Subject: WELCOME TO THE COMPANY!
+Date: Mon, 16 Nov 2009 11:02:37 -0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0019_01CA66AC.4EAB7CF0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5843
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5579
+X-Barracuda-Connect: domex.nps.edu[205.155.65.103]
+X-Barracuda-Start-Time: 1258398110
+X-Barracuda-Virus-Scanned: by Barracuda Spam & Virus Firewall at nps.edu
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0019_01CA66AC.4EAB7CF0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Team,
+
+I am extremely excited to take this opportunity to welcome you all to =
+the M57.biz family.  It has been a dream of mine to open a business that =
+provides an innovative service to companies, inventors, as well as =
+investors.
+
+I look forward to all of your great work in your future assignments and =
+I can't wait to get to know each of you a little more.  Please feel free =
+to send me any questions, concerns, or comments.
+
+Regards,
+
+Pat McGoo
+
+CEO, M57.biz
+
+pat@m57.biz
+
+831-555-1234
+------=_NextPart_000_0019_01CA66AC.4EAB7CF0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.18852">
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT size=3D2 face=3DArial>Dear Team,</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>I am extremely excited to take this =
+opportunity to=20
+welcome you all to the M57.biz family.&nbsp; It has been a dream of mine =
+to open=20
+a business that provides an innovative service to companies, inventors, =
+as well=20
+as investors.</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>I look forward to all of your great =
+work in your=20
+future assignments and I can't wait to get to know each of you a little=20
+more.&nbsp; Please feel free to send me any questions, concerns, or=20
+comments.</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>Regards,</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>Pat McGoo</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>CEO, M57.biz</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial><A=20
+href=3D"mailto:pat@m57.biz">pat@m57.biz</A></FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>831-555-1234</FONT></DIV></BODY></HTML>
+
+------=_NextPart_000_0019_01CA66AC.4EAB7CF0--
+
+
+From - Mon Nov 16 11:47:07 2009
+X-Account-Key: account2
+X-UIDL: 1258399318.V13I4e44a77M605865.homiemail-mx11
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <pat@m57.biz>
+X-Original-To: charlie@m57.biz
+Delivered-To: x10025127@homiemail-mx11.g.dreamhost.com
+Received: from mustang.nps.edu (mustang.nps.edu [205.155.65.61])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by homiemail-mx11.g.dreamhost.com (Postfix) with ESMTPS id 799FE598098
+	for <charlie@m57.biz>; Mon, 16 Nov 2009 11:21:58 -0800 (PST)
+X-ASG-Debug-ID: 1258399317-2c1d015b0000-zVRvyy
+X-Barracuda-URL: http://mustang.nps.edu:80/cgi-bin/mark.cgi
+Received: from domex (localhost [127.0.0.1])
+	by mustang.nps.edu (Spam & Virus Firewall) with ESMTP
+	id AEA2444F2E1; Mon, 16 Nov 2009 11:21:57 -0800 (PST)
+Received: from domex (domex.nps.edu [205.155.65.103]) by mustang.nps.edu with ESMTP id pagKGdvoZxZHFcPX; Mon, 16 Nov 2009 11:21:57 -0800 (PST)
+X-Barracuda-Envelope-From: pat@m57.biz
+Received: from localhost (localhost [127.0.0.1])
+	by domex (Postfix) with ESMTP id 5C01826A6C4;
+	Mon, 16 Nov 2009 11:19:07 -0800 (PST)
+X-Virus-Scanned: amavisd-new at nps.edu
+Received: from domex ([127.0.0.1])
+	by localhost (domex.nps.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id GPGDOYCpebYQ; Mon, 16 Nov 2009 11:19:07 -0800 (PST)
+Received: from m57pat (unknown [192.168.1.103])
+	by domex (Postfix) with ESMTPS id 4159526A6BB;
+	Mon, 16 Nov 2009 11:19:07 -0800 (PST)
+Message-ID: <896ACB92B0144545AB7CC8D944D4FF80@m57pat>
+From: "Pat McGoo" <pat@m57.biz>
+To: <charlie@m57.biz>,
+	<jo@m57.biz>,
+	<terry@m57.biz>
+X-ASG-Orig-Subj: Lunch
+Subject: Lunch
+Date: Mon, 16 Nov 2009 11:22:44 -0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0027_01CA66AF.1E2E6F30"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5843
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5579
+X-Barracuda-Connect: domex.nps.edu[205.155.65.103]
+X-Barracuda-Start-Time: 1258399317
+X-Barracuda-Virus-Scanned: by Barracuda Spam & Virus Firewall at nps.edu
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0027_01CA66AF.1E2E6F30
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Team,
+
+   today's the first day - do what you need to do, getting your office =
+set up or what not.  But normally we will observe a common workday, with =
+12-1 PM being the designated lunch time.  I do not see any reason why =
+anyone should deviate from this schedule in the future.
+   I tried the place across the street recently, it's pretty good.  =
+Perhaps once a week or so we could all try to have lunch together.
+
+Regards,
+
+Pat=20
+
+
+------=_NextPart_000_0027_01CA66AF.1E2E6F30
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.18852">
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT size=3D2 face=3DArial>Dear Team,</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>&nbsp;&nbsp; today's the first day - do =
+what you=20
+need to do, getting your office set up or what not.&nbsp; But normally =
+we will=20
+observe a common workday, with 12-1 PM being the designated lunch=20
+time.&nbsp;&nbsp;I do not see any reason why anyone should deviate from =
+this=20
+schedule in the future.</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial>&nbsp;&nbsp; I tried the place across =
+the street=20
+recently, it's pretty good.&nbsp; Perhaps once a week or so we could all =
+try to=20
+have lunch together.</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>Regards,</FONT></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>Pat</FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV></BODY></HTML>
+
+------=_NextPart_000_0027_01CA66AF.1E2E6F30--
+
+
+From - Mon Nov 16 13:48:49 2009
+X-Account-Key: account2
+X-UIDL: UID3-1258400844
+X-Mozilla-Status: 0011
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <alix.pery@yahoo.com>
+X-Original-To: charlie@m57.biz
+Delivered-To: x10025127@homiemail-mx12.g.dreamhost.com
+Received: from n1d.bullet.mail.ac4.yahoo.com (n1d.bullet.mail.ac4.yahoo.com [76.13.13.85])
+	by homiemail-mx12.g.dreamhost.com (Postfix) with SMTP id BC4302780A8
+	for <charlie@m57.biz>; Mon, 16 Nov 2009 13:38:52 -0800 (PST)
+Received: from [76.13.13.25] by n1.bullet.mail.ac4.yahoo.com with NNFMP; 16 Nov 2009 21:38:52 -0000
+Received: from [67.195.9.83] by t4.bullet.mail.ac4.yahoo.com with NNFMP; 16 Nov 2009 21:38:51 -0000
+Received: from [67.195.9.108] by t3.bullet.mail.gq1.yahoo.com with NNFMP; 16 Nov 2009 21:38:51 -0000
+Received: from [127.0.0.1] by omp112.mail.gq1.yahoo.com with NNFMP; 16 Nov 2009 21:38:51 -0000
+X-Yahoo-Newman-Property: ymail-5
+X-Yahoo-Newman-Id: 699265.18249.bm@omp112.mail.gq1.yahoo.com
+Received: (qmail 74640 invoked by uid 60001); 16 Nov 2009 21:38:51 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1258407531; bh=UILAN90iTACMf/wkjsoRybP3cWHqCd/oT9B9cIGXNoo=; h=Message-ID:X-YMail-OSG:Received:X-Mailer:References:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type; b=IY58EmLqgB6YlwtMxXaySMr346aUKkQbEqb0QPUe4tJB4CB/hU1ZIoKrcm2il7vuyV5T9AeDoz4yZ4Sa47kmFqiZ9MaPglLoAKyRq1XfK0vrpFBHCIp7mi1wN/V0sOpIAjywC3e6VED1raRfFa1w9Cyv6pmjf3N/RSYmptcdOUQ=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com;
+  h=Message-ID:X-YMail-OSG:Received:X-Mailer:References:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type;
+  b=kYnr3KgKLc99bKYEdJ2xnM0BYeDVLoXrtfoBAY8YWeCRpaqcoO8seAiWu0IhkdNJW50kzB5BXheePoxcdqHDFH7iPAzWgCJYBph1fRAGoQ269lBnWlBbmI2gErxBoPAEhTjuZ7NEzuFNgunuXLgdc5eOtm3iJsrHe8vLMozSZaw=;
+Message-ID: <617211.73542.qm@web113918.mail.gq1.yahoo.com>
+X-YMail-OSG: oOcdh34VM1m2pRx89VtlzAW12FqGlgNtjb35sLxqRa.SSW7z2mtdBoCgvA8bzkzihTq16Bk5Rd8wYfnmjfIKrbQV5ZF6l.0zaWvGR.uWXlsAqZBaqbaVZoULw_cm3JnOPPNIXpXSzRZ3FQIMR.lW54CyxHUJKCVzidiqs2G7uZphfVlfX_563B1EuFppidEKjplyukgW1rZ9ytqk75nIZ45MeL.m7.szNohRbLw.dRHSqstI49xQINgKSulNn.uLUPzKAgX.dqsMT_AeVesjoDcANImWBf7MBSKoGHXPtA--
+Received: from [205.155.65.233] by web113918.mail.gq1.yahoo.com via HTTP; Mon, 16 Nov 2009 13:38:51 PST
+X-Mailer: YahooMailRC/211.6 YahooMailWebService/0.7.361.4
+References: <4B01C378.3060603@m57.biz>
+Date: Mon, 16 Nov 2009 13:38:51 -0800 (PST)
+From: Alix Pery <alix.pery@yahoo.com>
+Subject: Re: New email address
+To: Charlie <charlie@m57.biz>
+In-Reply-To: <4B01C378.3060603@m57.biz>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1330488372-1258407531=:73542"
+
+--0-1330488372-1258407531=:73542
+Content-Type: text/plain; charset=us-ascii
+
+Great!  Congrats on the new job!
+
+
+
+
+________________________________
+From: Charlie <charlie@m57.biz>
+To: alix.pery@yahoo.com; rubinfritz31@mail.com
+Sent: Mon, November 16, 2009 1:26:16 PM
+Subject: New email address
+
+Hey everybody.  I started working at the new company today.  It's pretty slow going so far, we're just getting set up and figuring out where everything is.  I got my new email set up, so you can send to me at this address.
+
+Charlie
+
+
+
+      
+--0-1330488372-1258407531=:73542
+Content-Type: text/html; charset=us-ascii
+
+<html><head><style type="text/css"><!-- DIV {margin:0px;} --></style></head><body><div style="font-family:times new roman,new york,times,serif;font-size:12pt"><div>Great!&nbsp; Congrats on the new job!<br></div><div style="font-family: times new roman,new york,times,serif; font-size: 12pt;"><br><div style="font-family: arial,helvetica,sans-serif; font-size: 13px;"><font face="Tahoma" size="2"><hr size="1"><b><span style="font-weight: bold;">From:</span></b> Charlie &lt;charlie@m57.biz&gt;<br><b><span style="font-weight: bold;">To:</span></b> alix.pery@yahoo.com; rubinfritz31@mail.com<br><b><span style="font-weight: bold;">Sent:</span></b> Mon, November 16, 2009 1:26:16 PM<br><b><span style="font-weight: bold;">Subject:</span></b> New email address<br></font><br>Hey everybody.&nbsp; I started working at the new company today.&nbsp; It's pretty slow going so far, we're just getting set up and figuring out where everything is.&nbsp; I got my new email set
+ up, so you can send to me at this address.<br><br>Charlie<br></div></div>
+<!-- cg35.c4.mail.gq1.yahoo.com compressed/chunked Fri Nov 13 14:14:40 PST 2009 -->
+</div><br>
+
+      </body></html>
+--0-1330488372-1258407531=:73542--
+
+
+From - Mon Nov 16 15:58:56 2009
+X-Account-Key: account2
+X-UIDL: UID4-1258400844
+X-Mozilla-Status: 0003
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <pat@m57.biz>
+X-Original-To: charlie@m57.biz
+Delivered-To: x10025127@homiemail-mx12.g.dreamhost.com
+Received: from mustang.nps.edu (mustang.nps.edu [205.155.65.61])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by homiemail-mx12.g.dreamhost.com (Postfix) with ESMTPS id 6E24727807C
+	for <charlie@m57.biz>; Mon, 16 Nov 2009 14:32:30 -0800 (PST)
+X-ASG-Debug-ID: 1258410749-4198014e0000-zVRvyy
+X-Barracuda-URL: http://mustang.nps.edu:80/cgi-bin/mark.cgi
+Received: from domex (localhost [127.0.0.1])
+	by mustang.nps.edu (Spam & Virus Firewall) with ESMTP id F101BCA558E
+	for <charlie@m57.biz>; Mon, 16 Nov 2009 14:32:29 -0800 (PST)
+Received: from domex (domex.nps.edu [205.155.65.103]) by mustang.nps.edu with ESMTP id NBsiHt1iUAFvS7hT for <charlie@m57.biz>; Mon, 16 Nov 2009 14:32:29 -0800 (PST)
+X-Barracuda-Envelope-From: pat@m57.biz
+Received: from localhost (localhost [127.0.0.1])
+	by domex (Postfix) with ESMTP id 21ECA27069B
+	for <charlie@m57.biz>; Mon, 16 Nov 2009 14:29:42 -0800 (PST)
+X-Virus-Scanned: amavisd-new at nps.edu
+Received: from domex ([127.0.0.1])
+	by localhost (domex.nps.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id uZswclRZHqEr for <charlie@m57.biz>;
+	Mon, 16 Nov 2009 14:29:42 -0800 (PST)
+Received: from m57pat (unknown [192.168.1.103])
+	by domex (Postfix) with ESMTPS id 0A709270692
+	for <charlie@m57.biz>; Mon, 16 Nov 2009 14:29:42 -0800 (PST)
+Message-ID: <8D4479E6C38445CEA887D5B165D8DBD8@m57pat>
+From: "Pat McGoo" <pat@m57.biz>
+To: <charlie@m57.biz>
+X-ASG-Orig-Subj: Lunch
+Subject: Lunch
+Date: Mon, 16 Nov 2009 14:33:17 -0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0063_01CA66C9.BC8C4750"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5843
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5579
+X-Barracuda-Connect: domex.nps.edu[205.155.65.103]
+X-Barracuda-Start-Time: 1258410749
+X-Barracuda-Virus-Scanned: by Barracuda Spam & Virus Firewall at nps.edu
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0063_01CA66C9.BC8C4750
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Charlie,
+
+   just curious if you have had a chance to try the food at the place =
+across the street.  I went there today; first time I have ever had =
+abalone.  I think I should like to try to make that at home when of =
+these days, but I think it involves a lot of pounding.  We should all =
+try that place - perhaps Fridays we could have team meetings during =
+lunch.
+
+Pat
+------=_NextPart_000_0063_01CA66C9.BC8C4750
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.18852">
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT size=3D2 face=3DArial>Charlie,</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>&nbsp;&nbsp; just curious if you have =
+had a chance=20
+to try the food at the place across the street.&nbsp; I went there =
+today; first=20
+time I have ever had abalone.&nbsp; I think I should like to try to make =
+that at=20
+home when of these days, but I think it involves a lot of =
+pounding.&nbsp; We=20
+should all try that place - perhaps Fridays we could have team meetings =
+during=20
+lunch.</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>Pat</FONT></DIV></BODY></HTML>
+
+------=_NextPart_000_0063_01CA66C9.BC8C4750--
+
+
+From - Mon Nov 16 15:58:56 2009
+X-Account-Key: account2
+X-UIDL: UID5-1258400844
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <pat@m57.biz>
+X-Original-To: charlie@m57.biz
+Delivered-To: x10025127@homiemail-mx12.g.dreamhost.com
+Received: from mustang.nps.edu (mustang.nps.edu [205.155.65.61])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by homiemail-mx12.g.dreamhost.com (Postfix) with ESMTPS id 3F1B62780A0
+	for <charlie@m57.biz>; Mon, 16 Nov 2009 15:52:54 -0800 (PST)
+X-ASG-Debug-ID: 1258415573-36ea027a0000-zVRvyy
+X-Barracuda-URL: http://mustang.nps.edu:80/cgi-bin/mark.cgi
+Received: from domex (localhost [127.0.0.1])
+	by mustang.nps.edu (Spam & Virus Firewall) with ESMTP
+	id A8E15990875; Mon, 16 Nov 2009 15:52:53 -0800 (PST)
+Received: from domex (domex.nps.edu [205.155.65.103]) by mustang.nps.edu with ESMTP id bXIzdzJbB9cdcDW7; Mon, 16 Nov 2009 15:52:53 -0800 (PST)
+X-Barracuda-Envelope-From: pat@m57.biz
+Received: from localhost (localhost [127.0.0.1])
+	by domex (Postfix) with ESMTP id 5DEB9270BF6;
+	Mon, 16 Nov 2009 15:50:05 -0800 (PST)
+X-Virus-Scanned: amavisd-new at nps.edu
+Received: from domex ([127.0.0.1])
+	by localhost (domex.nps.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id eC2C9tTos2RW; Mon, 16 Nov 2009 15:50:05 -0800 (PST)
+Received: from m57pat (unknown [192.168.1.103])
+	by domex (Postfix) with ESMTPS id 46A4E270BED;
+	Mon, 16 Nov 2009 15:50:05 -0800 (PST)
+Message-ID: <1384CA22C7FD4752A8D232DB0E5CEAC8@m57pat>
+From: "Pat McGoo" <pat@m57.biz>
+To: <terry@m57.biz>,
+	<charlie@m57.biz>,
+	<jo@m57.biz>
+X-ASG-Orig-Subj: Great Job Folks!
+Subject: Great Job Folks!
+Date: Mon, 16 Nov 2009 15:53:40 -0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00A9_01CA66D4.F7B7ACB0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5843
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5579
+X-Barracuda-Connect: domex.nps.edu[205.155.65.103]
+X-Barracuda-Start-Time: 1258415573
+X-Barracuda-Virus-Scanned: by Barracuda Spam & Virus Firewall at nps.edu
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_00A9_01CA66D4.F7B7ACB0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+All,
+
+I am very proud of you all for jumping in with both feet and starting us =
+off on the right foot. Go ahead and take off an hour early. See you all =
+in the morning.=20
+
+Pat
+------=_NextPart_000_00A9_01CA66D4.F7B7ACB0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.18852">
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT size=3D2 face=3DArial>All,</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>I am very proud of you all for jumping =
+in with both=20
+feet and starting us off on the right foot. Go ahead and take off an =
+hour early.=20
+See you all in the morning. </FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>Pat</FONT></DIV></BODY></HTML>
+
+------=_NextPart_000_00A9_01CA66D4.F7B7ACB0--
+
+
+From - Tue Nov 17 10:29:09 2009
+X-Account-Key: account2
+X-UIDL: UID6-1258400844
+X-Mozilla-Status: 0011
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <rubinfritz31@mail.com>
+X-Original-To: charlie@m57.biz
+Delivered-To: x10025127@homiemail-mx8.g.dreamhost.com
+Received: from imr-da02.mx.aol.com (imr-da02.mx.aol.com [205.188.105.144])
+	by homiemail-mx8.g.dreamhost.com (Postfix) with ESMTP id 39B3272C05C
+	for <charlie@m57.biz>; Tue, 17 Nov 2009 08:46:25 -0800 (PST)
+Received: from imo-da04.mx.aol.com (imo-da04.mx.aol.com [205.188.169.202])
+	by imr-da02.mx.aol.com (8.14.1/8.14.1) with ESMTP id nAHGk02C006676
+	for <charlie@m57.biz>; Tue, 17 Nov 2009 11:46:00 -0500
+Received: from rubinfritz31@mail.com
+	by imo-da04.mx.aol.com  (mail_out_v42.5.) id s.cd1.5fc7d9ca (37074)
+	 for <charlie@m57.biz>; Tue, 17 Nov 2009 11:45:56 -0500 (EST)
+Received: from smtprly-db01.mx.aol.com (smtprly-db01.mx.aol.com [205.188.249.152]) by cia-db05.mx.aol.com (v126.13) with ESMTP id MAILCIADB058-5bc84b02d33a30c; Tue, 17 Nov 2009 11:45:56 -0500
+Received: from web-mmc-d14 (web-mmc-d14.sim.aol.com [205.188.168.108]) by smtprly-db01.mx.aol.com (v126.13) with ESMTP id MAILSMTPRLYDB017-5bc84b02d33a30c; Tue, 17 Nov 2009 11:45:47 -0500
+References: <4B01C378.3060603@m57.biz>
+To: charlie@m57.biz
+Subject: Re: New email address
+Date: Tue, 17 Nov 2009 11:45:46 -0500
+X-AOL-IP: 205.155.65.233
+In-Reply-To: <4B01C378.3060603@m57.biz>
+X-MB-Message-Source: WebUI
+MIME-Version: 1.0
+From: rubinfritz31@mail.com
+X-MB-Message-Type: User
+Content-Type: multipart/alternative; 
+ boundary="--------MB_8CC35BC8BCB13FF_8A4_1471_web-mmc-d14.sysops.aol.com"
+X-Mailer: Mail.com Webmail 28878-STANDARD
+Received: from 205.155.65.233 by web-mmc-d14.sysops.aol.com (205.188.168.108) with HTTP (WebMailUI); Tue, 17 Nov 2009 11:45:46 -0500
+Message-Id: <8CC35BC8BC3EFDF-8A4-945@web-mmc-d14.sysops.aol.com>
+X-Spam-Flag:NO
+X-AOL-SENDER: rubinfritz31@mail.com
+
+
+----------MB_8CC35BC8BCB13FF_8A4_1471_web-mmc-d14.sysops.aol.com
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="us-ascii"
+
+
+ Nice... Let me know when you want to go do something.
+
+=20
+
+=20
+
+-----Original Message-----
+From: Charlie <charlie@m57.biz>
+To: alix.pery@yahoo.com; rubinfritz31@mail.com
+Sent: Mon, Nov 16, 2009 1:26 pm
+Subject: New email address
+
+
+
+
+
+
+
+
+
+Hey everybody.  I started working at the new company today.  It's pretty=
+=20
+slow going so far, we're just getting set up and figuring out where=20
+everything is.  I got my new email set up, so you can send to me at this=
+=20
+address.=20
+=20
+
+Charlie=20
+
+
+
+=20
+
+
+----------MB_8CC35BC8BCB13FF_8A4_1471_web-mmc-d14.sysops.aol.com
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<font color=3D'black' size=3D'2' face=3D'arial'>
+<div> <font size=3D"2"><font face=3D"Arial, Helvetica, sans-serif">Nice...=
+ Let me know when you want to go do something.</font></font><br>
+</div>
+
+<div> <br>
+</div>
+
+<div> <br>
+</div>
+-----Original Message-----<br>
+From: Charlie &lt;charlie@m57.biz&gt;<br>
+To: alix.pery@yahoo.com; rubinfritz31@mail.com<br>
+Sent: Mon, Nov 16, 2009 1:26 pm<br>
+Subject: New email address<br>
+<br>
+
+
+
+
+
+
+<div id=3D"AOLMsgPart_0_31e655f5-10dc-4b4d-966f-6390d14f4ca9" style=3D"mar=
+gin: 0px; font-family: Tahoma,Verdana,Arial,Sans-Serif; font-size: 12px;=
+ color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);">
+
+Hey everybody.  I started working at the new company today.  It's pretty=
+=20
+slow going so far, we're just getting set up and figuring out where=20
+everything is.  I got my new email set up, so you can send to me at this=
+=20
+address.&nbsp;<br>
+&nbsp;<br>
+
+Charlie&nbsp;<br>
+
+
+</div>
+ <!-- end of AOLMsgPart_0_31e655f5-10dc-4b4d-966f-6390d14f4ca9 -->
+
+</font>
+
+----------MB_8CC35BC8BCB13FF_8A4_1471_web-mmc-d14.sysops.aol.com--
+
+From - Tue Nov 17 10:48:26 2009
+X-Account-Key: account2
+X-UIDL: UID7-1258400844
+X-Mozilla-Status: 0005
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <pat@m57.biz>
+X-Original-To: charlie@m57.biz
+Delivered-To: x10025127@homiemail-mx11.g.dreamhost.com
+Received: from mustang.nps.edu (mustang.nps.edu [205.155.65.61])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by homiemail-mx11.g.dreamhost.com (Postfix) with ESMTPS id 147B85980C7
+	for <charlie@m57.biz>; Tue, 17 Nov 2009 10:30:14 -0800 (PST)
+X-ASG-Debug-ID: 1258482611-051801620000-zVRvyy
+X-Barracuda-URL: http://mustang.nps.edu:80/cgi-bin/mark.cgi
+Received: from domex (localhost [127.0.0.1])
+	by mustang.nps.edu (Spam & Virus Firewall) with ESMTP
+	id 9E67E743439; Tue, 17 Nov 2009 10:30:11 -0800 (PST)
+Received: from domex (domex.nps.edu [205.155.65.103]) by mustang.nps.edu with ESMTP id RUXBVCqsforv6Slj; Tue, 17 Nov 2009 10:30:11 -0800 (PST)
+X-Barracuda-Envelope-From: pat@m57.biz
+Received: from localhost (localhost [127.0.0.1])
+	by domex (Postfix) with ESMTP id 59451276A99;
+	Tue, 17 Nov 2009 10:27:20 -0800 (PST)
+X-Virus-Scanned: amavisd-new at nps.edu
+Received: from domex ([127.0.0.1])
+	by localhost (domex.nps.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Zev4+VGR3ElK; Tue, 17 Nov 2009 10:27:20 -0800 (PST)
+Received: from m57pat (unknown [192.168.1.103])
+	by domex (Postfix) with ESMTPS id 352FF276A8D;
+	Tue, 17 Nov 2009 10:27:20 -0800 (PST)
+Message-ID: <4883C907F0C84E259AB02C50B022325E@m57pat>
+From: "Pat McGoo" <pat@m57.biz>
+To: <jo@m57.biz>,
+	<charlie@m57.biz>
+X-ASG-Orig-Subj: Fw: M57.BIZ PRIOR ART INVESTIGATION SERVICES
+Subject: Fw: M57.BIZ PRIOR ART INVESTIGATION SERVICES
+Date: Tue, 17 Nov 2009 10:30:59 -0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0013_01CA6771.0D99A960"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5843
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5579
+X-Barracuda-Connect: domex.nps.edu[205.155.65.103]
+X-Barracuda-Start-Time: 1258482611
+X-Barracuda-Virus-Scanned: by Barracuda Spam & Virus Firewall at nps.edu
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0013_01CA6771.0D99A960
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+
+----- Original Message -----=20
+From: Alex Monroe=20
+To: Pat McGoo=20
+Sent: Tuesday, November 17, 2009 8:58 AM
+Subject: Re: M57.BIZ PRIOR ART INVESTIGATION SERVICES
+
+
+Dear Pat,
+
+Yes, we are very interested in using your prior art investigation =
+services. Our R&D department is currently applying for patents in two =
+key areas that we are counting on to gain market share over our major =
+competitor, project2400.com. I am counting on you and your firm to keep =
+these research areas in strict confidentiality. We wouldn't want =
+project2400 to know about our research interests.
+
+We will hire you to do prior art searches on these two areas:
+
+  a.. Time machines
+  b.. Teleporters
+Please send me a quote for these two investigations.
+
+Regards,
+
+Alex
+
+CEO - Nitroba.com
+
+
+
+On Nov 16, 2009, at 2:49 PM, Pat McGoo wrote:
+
+
+  Alex,
+
+  I enjoyed talking with you at the patent conference in San Francisco =
+last week.  I remember that you said that you would be interested in our =
+prior art investigation services.
+
+  If you are still interested in our services, then I can fax you over a =
+service agreement right away.  I hope to hear from you soon.  Please do =
+not hesistate to give me a call or email if you have any questions, =
+concerns, or comments.
+
+  Regards,
+
+  Pat McGoo
+
+  CEO, M57.biz
+
+  pat@m57.biz
+
+  831-555-1234
+
+
+------=_NextPart_000_0013_01CA6771.0D99A960
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.18852">
+<STYLE></STYLE>
+</HEAD>
+<BODY=20
+style=3D"WORD-WRAP: break-word; -webkit-nbsp-mode: space; =
+-webkit-line-break: after-white-space"=20
+bgColor=3D#ffffff>
+<DIV>&nbsp;</DIV>
+<DIV style=3D"FONT: 10pt arial">----- Original Message -----=20
+<DIV style=3D"BACKGROUND: #e4e4e4; font-color: black"><B>From:</B> <A=20
+title=3Dalex@nitroba.com href=3D"mailto:alex@nitroba.com">Alex =
+Monroe</A> </DIV>
+<DIV><B>To:</B> <A title=3Dpat@m57.biz href=3D"mailto:pat@m57.biz">Pat =
+McGoo</A>=20
+</DIV>
+<DIV><B>Sent:</B> Tuesday, November 17, 2009 8:58 AM</DIV>
+<DIV><B>Subject:</B> Re: M57.BIZ PRIOR ART INVESTIGATION =
+SERVICES</DIV></DIV>
+<DIV><BR></DIV>
+<DIV><SPAN=20
+style=3D"FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: =
+13px"=20
+class=3DApple-style-span>
+<P class=3Dparagraph>Dear Pat,</P>
+<P class=3Dparagraph>Yes, we are very interested in using your prior art =
+
+investigation services. Our R&amp;D department is currently applying for =
+patents=20
+in two key areas that we are counting on to gain market share over our =
+major=20
+competitor, project2400.com. I am counting on you and your firm to keep =
+these=20
+research areas in strict confidentiality. We wouldn't want project2400 =
+to know=20
+about our research interests.</P>
+<P class=3Dparagraph>We will hire you to do prior art searches on these =
+two=20
+areas:</P>
+<UL style=3D"LIST-STYLE-TYPE: circle" class=3Dstar>
+  <LI>Time machines
+  <LI>Teleporters</LI></UL>
+<P class=3Dparagraph>Please send me a quote for these two =
+investigations.</P>
+<P class=3Dparagraph>Regards,</P>
+<P class=3Dparagraph>Alex</P>
+<P class=3Dparagraph>CEO - Nitroba.com</P></SPAN></DIV><BR>
+<DIV>
+<DIV>On Nov 16, 2009, at 2:49 PM, Pat McGoo wrote:</DIV><BR=20
+class=3DApple-interchange-newline>
+<BLOCKQUOTE type=3D"cite"><SPAN=20
+  style=3D"WIDOWS: 2; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; =
+BORDER-COLLAPSE: separate; FONT: medium Helvetica; WHITE-SPACE: normal; =
+ORPHANS: 2; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: =
+0px; -webkit-border-horizontal-spacing: 0px; =
+-webkit-border-vertical-spacing: 0px; =
+-webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: =
+auto; -webkit-text-stroke-width: 0px"=20
+  class=3DApple-style-span>
+  <DIV bgcolor=3D"#ffffff">
+  <DIV><FONT size=3D2 face=3DArial>Alex,</FONT></DIV>
+  <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+  <DIV><FONT size=3D2 face=3DArial>I enjoyed talking with you at the =
+patent=20
+  conference in San Francisco last week.&nbsp; I remember that you said =
+that you=20
+  would be interested in our prior art investigation =
+services.</FONT></DIV>
+  <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+  <DIV><FONT size=3D2 face=3DArial>If you are still interested in our =
+services, then=20
+  I can fax you over a service agreement right away.&nbsp; I hope to =
+hear from=20
+  you soon.&nbsp; Please do not hesistate to give me a call or email if =
+you have=20
+  any questions, concerns, or comments.</FONT></DIV>
+  <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+  <DIV><FONT size=3D2 face=3DArial>Regards,</FONT></DIV>
+  <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+  <DIV><FONT size=3D2 face=3DArial>Pat McGoo</FONT></DIV>
+  <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+  <DIV><FONT size=3D2 face=3DArial>CEO, M57.biz</FONT></DIV>
+  <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+  <DIV><FONT size=3D2 face=3DArial><A =
+href=3D"">pat@m57.biz</A></FONT></DIV>
+  <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+  <DIV><FONT size=3D2 face=3DArial>831-555-1234</FONT></DIV>
+  <DIV><FONT size=3D2=20
+face=3DArial></FONT>&nbsp;</DIV></DIV></SPAN></BLOCKQUOTE></DIV><BR></BOD=
+Y></HTML>
+
+------=_NextPart_000_0013_01CA6771.0D99A960--
+
+
+From - Tue Nov 17 10:48:26 2009
+X-Account-Key: account2
+X-UIDL: UID8-1258400844
+X-Mozilla-Status: 0005
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <pat@m57.biz>
+X-Original-To: charlie@m57.biz
+Delivered-To: x10025127@homiemail-mx12.g.dreamhost.com
+Received: from mustang.nps.edu (mustang.nps.edu [205.155.65.61])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by homiemail-mx12.g.dreamhost.com (Postfix) with ESMTPS id 620AA278087
+	for <charlie@m57.biz>; Tue, 17 Nov 2009 10:32:52 -0800 (PST)
+X-ASG-Debug-ID: 1258482771-790b00ab0000-zVRvyy
+X-Barracuda-URL: http://mustang.nps.edu:80/cgi-bin/mark.cgi
+Received: from domex (localhost [127.0.0.1])
+	by mustang.nps.edu (Spam & Virus Firewall) with ESMTP
+	id CD864AA130A; Tue, 17 Nov 2009 10:32:51 -0800 (PST)
+Received: from domex (domex.nps.edu [205.155.65.103]) by mustang.nps.edu with ESMTP id lA9zF9cje0GjGn1b; Tue, 17 Nov 2009 10:32:51 -0800 (PST)
+X-Barracuda-Envelope-From: pat@m57.biz
+Received: from localhost (localhost [127.0.0.1])
+	by domex (Postfix) with ESMTP id AEF4E276B41;
+	Tue, 17 Nov 2009 10:30:00 -0800 (PST)
+X-Virus-Scanned: amavisd-new at nps.edu
+Received: from domex ([127.0.0.1])
+	by localhost (domex.nps.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id GA5UOdYGO7OR; Tue, 17 Nov 2009 10:30:00 -0800 (PST)
+Received: from m57pat (unknown [192.168.1.103])
+	by domex (Postfix) with ESMTPS id 92A4F276B38;
+	Tue, 17 Nov 2009 10:30:00 -0800 (PST)
+Message-ID: <3A88C1DA426A46A58F593E5D797FCFAA@m57pat>
+From: "Pat McGoo" <pat@m57.biz>
+To: <jo@m57.biz>,
+	<charlie@m57.biz>
+X-ASG-Orig-Subj: ASSIGNMENT OF NITROBA ACCOUNT
+Subject: ASSIGNMENT OF NITROBA ACCOUNT
+Date: Tue, 17 Nov 2009 10:33:39 -0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0019_01CA6771.6D4193A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5843
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5579
+X-Barracuda-Connect: domex.nps.edu[205.155.65.103]
+X-Barracuda-Start-Time: 1258482771
+X-Barracuda-Virus-Scanned: by Barracuda Spam & Virus Firewall at nps.edu
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0019_01CA6771.6D4193A0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Jo, Charlie:
+
+We have our first contract !  Nitroba wants us to do a prior art =
+investigation in two key areas.  Jo, you will be responsible for the =
+teleporter patent search.  Charlie, I want you to take the time machine =
+patent search.  This is our first real job, so let's make sure we do =
+some quality research.  Our reputation will depend on the time and =
+effort that we put into this contract and on Nitroba's satisfaction with =
+our results.  Come by my office and we'll talk details.
+
+Pat
+------=_NextPart_000_0019_01CA6771.6D4193A0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.18852">
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT size=3D2 face=3DArial>Jo, Charlie:</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>We have our first contract !&nbsp; =
+Nitroba wants us=20
+to do a prior art investigation in two key areas.&nbsp; Jo, you will be=20
+responsible for the teleporter patent search.&nbsp; Charlie, I want you =
+to take=20
+the time machine patent search.&nbsp; This is our first real job, so =
+let's make=20
+sure we do some quality research.&nbsp; Our reputation will depend on =
+the time=20
+and effort that we put into this contract and on Nitroba's satisfaction =
+with our=20
+results.&nbsp; Come by my office and we'll talk details.</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>Pat</FONT></DIV></BODY></HTML>
+
+------=_NextPart_000_0019_01CA6771.6D4193A0--
+
+
+From - Tue Nov 17 10:48:27 2009
+X-Account-Key: account2
+X-UIDL: UID9-1258400844
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <pat@m57.biz>
+X-Original-To: charlie@m57.biz
+Delivered-To: x10025127@homiemail-mx12.g.dreamhost.com
+Received: from mustang.nps.edu (mustang.nps.edu [205.155.65.61])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by homiemail-mx12.g.dreamhost.com (Postfix) with ESMTPS id 59EBE2780B9
+	for <charlie@m57.biz>; Tue, 17 Nov 2009 10:38:31 -0800 (PST)
+X-ASG-Debug-ID: 1258483104-119b03b20000-zVRvyy
+X-Barracuda-URL: http://mustang.nps.edu:80/cgi-bin/mark.cgi
+Received: from domex (localhost [127.0.0.1])
+	by mustang.nps.edu (Spam & Virus Firewall) with ESMTP
+	id 81D2DBD7763; Tue, 17 Nov 2009 10:38:24 -0800 (PST)
+Received: from domex (domex.nps.edu [205.155.65.103]) by mustang.nps.edu with ESMTP id OY5jfMKFDZOzKbUx; Tue, 17 Nov 2009 10:38:24 -0800 (PST)
+X-Barracuda-Envelope-From: pat@m57.biz
+Received: from localhost (localhost [127.0.0.1])
+	by domex (Postfix) with ESMTP id 5CEEF276BE3;
+	Tue, 17 Nov 2009 10:35:33 -0800 (PST)
+X-Virus-Scanned: amavisd-new at nps.edu
+Received: from domex ([127.0.0.1])
+	by localhost (domex.nps.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id PCasGIueHb-h; Tue, 17 Nov 2009 10:35:33 -0800 (PST)
+Received: from m57pat (unknown [192.168.1.103])
+	by domex (Postfix) with ESMTPS id 44E25276BDA;
+	Tue, 17 Nov 2009 10:35:33 -0800 (PST)
+Message-ID: <8B58A07190B944F4837568AB8B57486E@m57pat>
+From: "Pat McGoo" <pat@m57.biz>
+To: <charlie@m57.biz>,
+	<jo@m57.biz>
+X-ASG-Orig-Subj: Inventions / Patents
+Subject: Inventions / Patents
+Date: Tue, 17 Nov 2009 10:39:12 -0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0023_01CA6772.337F64C0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5843
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5579
+X-Barracuda-Connect: domex.nps.edu[205.155.65.103]
+X-Barracuda-Start-Time: 1258483104
+X-Barracuda-Virus-Scanned: by Barracuda Spam & Virus Firewall at nps.edu
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0023_01CA6772.337F64C0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Jo, Charlie,
+
+    I have an idea for an invention that I am very enthusiastic about.  =
+If you get time from your other responsibilities here or there, please =
+take a minute two start seeing if this has been done before with some =
+searches. =20
+
+   You know those little plastic golf balls filled with liquid that you =
+freeze and use as ice cubes?  I want to do jacks.  You know, like jacks =
+that little kids play with?  And a ball to go with it.  The thinking is, =
+jacks have a lot more surface area than balls - imagine how quickly they =
+would cool down a frosty drink !  And, here's the best part, the kids =
+could play with them while they were not being used for the primary =
+purpose.
+
+I think this shows a lot of promise - let me know if you find anything.
+
+Thanks
+
+Pat
+------=_NextPart_000_0023_01CA6772.337F64C0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.18852">
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT size=3D2 face=3DArial>Jo, Charlie,</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>&nbsp;&nbsp;&nbsp; I have an idea for =
+an invention=20
+that I am very enthusiastic about.&nbsp; If you get time from your other =
+
+responsibilities here or there, please take a minute two start seeing if =
+this=20
+has been done before with some searches.&nbsp; </FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>&nbsp;&nbsp; You know those little =
+plastic golf=20
+balls filled with liquid that you freeze and use as ice cubes?&nbsp; I =
+want to=20
+do jacks.&nbsp; You know, like jacks that little kids play with?&nbsp; =
+And a=20
+ball to go with it.&nbsp; The thinking is, jacks have a lot more surface =
+area=20
+than balls - imagine how quickly they would cool down a frosty drink =
+!&nbsp;=20
+And, here's the best part, the kids could play with them while they were =
+not=20
+being used for the primary purpose.</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>I think this shows a lot of promise - =
+let me know=20
+if you find anything.</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>Thanks</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>Pat</FONT></DIV></BODY></HTML>
+
+------=_NextPart_000_0023_01CA6772.337F64C0--
+
+
+From - Tue Nov 17 10:48:28 2009
+X-Account-Key: account2
+X-UIDL: UID10-1258400844
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <pat@m57.biz>
+X-Original-To: charlie@m57.biz
+Delivered-To: x10025127@homiemail-mx8.g.dreamhost.com
+Received: from mustang.nps.edu (mustang.nps.edu [205.155.65.61])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by homiemail-mx8.g.dreamhost.com (Postfix) with ESMTPS id 297D872C0C6
+	for <charlie@m57.biz>; Tue, 17 Nov 2009 10:39:34 -0800 (PST)
+X-ASG-Debug-ID: 1258483172-051701980000-zVRvyy
+X-Barracuda-URL: http://mustang.nps.edu:80/cgi-bin/mark.cgi
+Received: from domex (localhost [127.0.0.1])
+	by mustang.nps.edu (Spam & Virus Firewall) with ESMTP
+	id 84670BD77B9; Tue, 17 Nov 2009 10:39:32 -0800 (PST)
+Received: from domex (domex.nps.edu [205.155.65.103]) by mustang.nps.edu with ESMTP id 2ojsM5ijNCT771kX; Tue, 17 Nov 2009 10:39:32 -0800 (PST)
+X-Barracuda-Envelope-From: pat@m57.biz
+Received: from localhost (localhost [127.0.0.1])
+	by domex (Postfix) with ESMTP id 5FE96276BF7;
+	Tue, 17 Nov 2009 10:36:41 -0800 (PST)
+X-Virus-Scanned: amavisd-new at nps.edu
+Received: from domex ([127.0.0.1])
+	by localhost (domex.nps.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id bBLKXigo0EBT; Tue, 17 Nov 2009 10:36:41 -0800 (PST)
+Received: from m57pat (unknown [192.168.1.103])
+	by domex (Postfix) with ESMTPS id 510E3276BEE;
+	Tue, 17 Nov 2009 10:36:41 -0800 (PST)
+Message-ID: <132CC83F60734F7199CA12B12D323C31@m57pat>
+From: "Pat McGoo" <pat@m57.biz>
+To: <charlie@m57.biz>,
+	<jo@m57.biz>
+X-ASG-Orig-Subj: Lunch
+Subject: Lunch
+Date: Tue, 17 Nov 2009 10:40:20 -0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0029_01CA6772.5C323F50"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5843
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5579
+X-Barracuda-Connect: domex.nps.edu[205.155.65.103]
+X-Barracuda-Start-Time: 1258483172
+X-Barracuda-Virus-Scanned: by Barracuda Spam & Virus Firewall at nps.edu
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0029_01CA6772.5C323F50
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+I'm thinking about that place over on the corner today - they have the =
+best tuna salad - I'll be leaving around 12:05 if anyone cares to join =
+me.
+
+Pat
+------=_NextPart_000_0029_01CA6772.5C323F50
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.18852">
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT size=3D2 face=3DArial>I'm thinking about that place over on =
+the corner=20
+today - they have the best tuna salad - I'll be leaving around 12:05 if =
+anyone=20
+cares to join me.</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>Pat</FONT></DIV></BODY></HTML>
+
+------=_NextPart_000_0029_01CA6772.5C323F50--
+
+
+From - Wed Nov 18 11:57:32 2009
+X-Account-Key: account2
+X-UIDL: UID11-1258400844
+X-Mozilla-Status: 0003
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <pat@m57.biz>
+X-Original-To: charlie@m57.biz
+Delivered-To: x10025127@homiemail-mx7.g.dreamhost.com
+Received: from mustang.nps.edu (mustang.nps.edu [205.155.65.61])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by homiemail-mx7.g.dreamhost.com (Postfix) with ESMTPS id 1F063CF3C0
+	for <charlie@m57.biz>; Wed, 18 Nov 2009 09:02:48 -0800 (PST)
+X-ASG-Debug-ID: 1258563751-3f9c04c30001-zVRvyy
+Received: from domex (domex.nps.edu [205.155.65.103]) by mustang.nps.edu with ESMTP id YyFpifOzeccxEACS; Wed, 18 Nov 2009 09:02:31 -0800 (PST)
+X-Barracuda-Envelope-From: pat@m57.biz
+Received: from localhost (localhost [127.0.0.1])
+	by domex (Postfix) with ESMTP id BB62C2ADE90;
+	Wed, 18 Nov 2009 08:59:36 -0800 (PST)
+X-Virus-Scanned: amavisd-new at nps.edu
+Received: from domex ([127.0.0.1])
+	by localhost (domex.nps.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id PRBchtTCMsJv; Wed, 18 Nov 2009 08:59:36 -0800 (PST)
+Received: from m57pat (unknown [192.168.1.103])
+	by domex (Postfix) with ESMTPS id 8E5C72ADE84;
+	Wed, 18 Nov 2009 08:59:36 -0800 (PST)
+Message-ID: <98CC40FE46EA4F9CB82A95B0E7634C9A@m57pat>
+From: "Pat McGoo" <pat@m57.biz>
+To: <jo@m57.biz>,
+	<charlie@m57.biz>,
+	<terry@m57.biz>
+X-ASG-Orig-Subj: COFFEE
+Subject: COFFEE
+Date: Wed, 18 Nov 2009 09:03:16 -0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01CA682D.F72DEE80"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5843
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5579
+X-Barracuda-Connect: domex.nps.edu[205.155.65.103]
+X-Barracuda-Start-Time: 1258563751
+X-Barracuda-URL: http://mustang.nps.edu:80/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at nps.edu
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0003_01CA682D.F72DEE80
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Charlie, Terry,
+
+    just checking up on your preferences for coffee - jo is going =
+shopping tomorrow, let us know what you want.
+
+Jo, I like my coffee cinnamon apple flavor with just a whisper of cream =
+- be sure to get the heavy whipping cream, NOT the half and half.  See =
+if they have any of those nice pumpkin muffins, too.
+
+Pat
+------=_NextPart_000_0003_01CA682D.F72DEE80
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.18852">
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT size=3D2 face=3DArial>Charlie, Terry,</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>&nbsp;&nbsp;&nbsp; just checking up on =
+your=20
+preferences for coffee - jo is going shopping tomorrow, let us know what =
+you=20
+want.</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>Jo, I like my coffee cinnamon apple =
+flavor with=20
+just a whisper of cream - be sure to get the heavy whipping cream, NOT =
+the half=20
+and half.&nbsp; See if they have any of those nice pumpkin muffins,=20
+too.</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>Pat</FONT></DIV></BODY></HTML>
+
+------=_NextPart_000_0003_01CA682D.F72DEE80--
+
+
+From - Wed Nov 18 11:57:33 2009
+X-Account-Key: account2
+X-UIDL: UID12-1258400844
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 10000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <pat@m57.biz>
+X-Original-To: charlie@m57.biz
+Delivered-To: x10025127@homiemail-mx8.g.dreamhost.com
+Received: from mustang.nps.edu (mustang.nps.edu [205.155.65.61])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by homiemail-mx8.g.dreamhost.com (Postfix) with ESMTPS id F1A7C72C0CB
+	for <charlie@m57.biz>; Wed, 18 Nov 2009 09:26:45 -0800 (PST)
+X-ASG-Debug-ID: 1258565205-3f9c08070001-zVRvyy
+Received: from domex (domex.nps.edu [205.155.65.103]) by mustang.nps.edu with ESMTP id 7ZajTx0napknV2qJ; Wed, 18 Nov 2009 09:26:45 -0800 (PST)
+X-Barracuda-Envelope-From: pat@m57.biz
+Received: from localhost (localhost [127.0.0.1])
+	by domex (Postfix) with ESMTP id 8A9B42AE327;
+	Wed, 18 Nov 2009 09:23:50 -0800 (PST)
+X-Virus-Scanned: amavisd-new at nps.edu
+Received: from domex ([127.0.0.1])
+	by localhost (domex.nps.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id yU1cY7MEAa0C; Wed, 18 Nov 2009 09:23:50 -0800 (PST)
+Received: from m57pat (unknown [192.168.1.103])
+	by domex (Postfix) with ESMTPS id 656812AE319;
+	Wed, 18 Nov 2009 09:23:50 -0800 (PST)
+Message-ID: <19E093A047314B8CADD78E5F5E1C9975@m57pat>
+From: "Pat McGoo" <pat@m57.biz>
+To: <jo@m57.biz>,
+	<charlie@m57.biz>
+X-ASG-Orig-Subj: pneumatic boxing glove
+Subject: pneumatic boxing glove
+Date: Wed, 18 Nov 2009 09:27:32 -0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_NextPart_000_002F_01CA6831.5B56ECB0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5843
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5579
+X-Barracuda-Connect: domex.nps.edu[205.155.65.103]
+X-Barracuda-Start-Time: 1258565205
+X-Barracuda-URL: http://mustang.nps.edu:80/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at nps.edu
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_002F_01CA6831.5B56ECB0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_0030_01CA6831.5B56ECB0"
+
+
+------=_NextPart_001_0030_01CA6831.5B56ECB0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Check this one out:
+
+http://www.google.com/patents/about?id=3DInUBAAAAEBAJ
+
+
+I should have thought of that one!
+
+
+
+
+------=_NextPart_001_0030_01CA6831.5B56ECB0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.18852">
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT size=3D2 face=3DArial>Check this one out:</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><IMG class=3Dthumb title=3D"Pneumatic boxing glove"=20
+alt=3D"Pneumatic boxing glove"=20
+src=3D"http://bks0.books.google.com/patents?id=3DInUBAAAAEBAJ&amp;printse=
+c=3Ddrawing&amp;img=3D1&amp;zoom=3D1&amp;sig=3DACfU3U2URQOSgn8vgiLuW7o82t=
+To7g7l_w"=20
+width=3Dauto height=3Dauto><FONT size=3D2 face=3DArial><A=20
+href=3D"http://www.google.com/patents/about?id=3DInUBAAAAEBAJ">http://www=
+.google.com/patents/about?id=3DInUBAAAAEBAJ</A></FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>I should have thought of that =
+one!</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV></BODY></HTML>
+
+------=_NextPart_001_0030_01CA6831.5B56ECB0--
+
+------=_NextPart_000_002F_01CA6831.5B56ECB0
+Content-Type: application/octet-stream;
+	name="patents?id=InUBAAAAEBAJ&printsec=drawing&img=1&zoom=1&sig=ACfU3U2URQOSgn8vgiLuW7o82tTo7g7l_w"
+Content-Transfer-Encoding: base64
+Content-Location: http://bks0.books.google.com/patents?id=InUBAAAAEBAJ&printsec=drawing&img=1&zoom=1&sig=ACfU3U2URQOSgn8vgiLuW7o82tTo7g7l_w
+
+iVBORw0KGgoAAAANSUhEUgAAAIAAAAC8BAMAAABCqLsuAAAAD1BMVEUAAAA/Pz9/f3+/v7////93
+N0HWAAAACXBIWXMAAAKdAAACnQEbaSIpAAAFxklEQVRoge2aC5LkJgxA9wrpPsGAL7BIJ0Dc/0yR
+BNgYBHZPMlWblKn5dRseQgh96PmV/mH79QAewAN4AP9FAG0AEMIMQJASpBDgGJAAse27offOTQHO
+oUvu6ABxC+AjQoWQZwmApgAChAS0z4lE3JlfY1q1H1MigaiARU4ASxGmAB88IK8avwm43X4OIOpH
+JNGBvsyb2FnGEgCBLY8xWQW8y/yKWbcBd9sfD+CVO2lzW1gCIPBQbcH5zwGQRxdBwoQwBfCcasdi
+yXokmEAw9psBQpZdJ5ffhBCQDE1MAF8eZXRZAf/Bg6F3RiaAdKm/XzIptBKzUZpq6AFq66Tb1smL
+FC0RzCUEMLRF4GFbAbK2uBd7U2M8r4HIEOEARDU5Nh33ssyOdYAYxicNgHea7cVy3dKQTzTRqMZm
+CRSy2Sc2AdOXI9vCClAm4m9RhHF82EeNazgDsvZZ2rfYQd+XlzDuQy9BkYLVQfrOyXrZRw5KmADq
+WYCzOnA0kBlAgm3WqQ6pnhUHLU4BqZiWk8WksGUADVpcAXLjxVQJ2JqGzbkGSDioK2cdbGuAeJAm
++KC+Uw+5AGgBEJ/lkHfwADh1QvKVRWdbXAB4GgmALSAe25YNYgWIkhHIeXKNDmgj9iTHEleAIRWR
+5Uo8bUyaloC+cV/SHbkrQd+orJsoT54ulJiKuezrIMquNeug7MJiG7mx4ePvA+fzEdexeTeWdsDR
+AL7c9nXgUg2Ne0wzUrazDtrjTi5wb1JL3o/X6iz0LZaDR0dkl9PYd5sDaiBj69wBaeUP+lY8MDXZ
+CS49Ujec1JfAKbvhBH67CVANilfzzZxk6HAKoBR1C9oREtuGnnMdDPkMGe8tAX0IQCuurA5TwFNm
+zXu4js6jCOcojWZwXiaaYsk7DckKrWtAUZlshGZpcCfJOosglZdOLxKMUekSQJ4F15KWJbAFuMjW
+2RxFEZhN2+xyke4HdQcqQD3dnwEk0yjpX1FAnAH6B7WBZhrhcErdShYASmXunGZgEaVLNndAru1z
+aZgrxPXaRsC9/nPAd9sAIKuuuQeQPDlY5fFNACWP6DcOylauXSe5ACQDQO9N7zFkW5YujXKGpSf/
+BJC6r2adK49Exl/ldc57pfrc7gFOrktqJSj1EFyk++VpmykmrR2gspbZeh3VTkOhDNcl+GVwPSqD
+YzFymNvQlMbgeAbACUBBI2Nbc4zhubFETYXkR6yZBRR/1rYLQB4Jpf4dzYYodkQTECWsO+tQsW/v
+tDAA9L5IKkgzCjAgTiQIuwQSEnn1bHXlDqL5yc555hMDeLmt2jPTQXtXEry2aocQ5QrNBmT5TEBj
+yOQlHYwW4NIOVIKsPhOwssSjXCw6sPz0mCKY2yi7iKMEpNRLHfAu6MVXwHJ9mB1aDjYcImeR6cjl
+5bqGvZez2tdwP3OWQLZOyn71fy4oBfY6XtrWr2tcgt+IJJpyxdc6Yq0dcJnuY+2pKfFYHSXQ+/pL
+QC3wDEukNKaKlkOhdNR8vQxp+vlCBmh9JPvtrLxYEvYLQF2CVLzmWRiUMNXB7Dj3b/8cwNjGDwB6
+qyYbNjjWoWqaAdicXhLwuwkRbwHyqOglwz3NaVSeJ8Du1MpvB3n8fsOIYwrWS3DcWKQSHJHy9bIq
+ZHl/kK8r2jpHb9Qg1/D6FNK1S2slkLPhpXjN14yolxIfAkTyPeVfpzgmgParwZypL+tGC3BIoq5t
+fHACkN6xcFwy+qXRF42AABRDinGR6q4BEcT6BgkArRzZABy++9Qjvj3cA0zaX/R+4df08TUAU9wW
+j//4T7oewAP4XwIIe2fxGcD5wFnwtwDk0XtOtI3AcA/g5YIWWYLhn0DuAZyPHBwjV0Wf3KkejYN0
+CD75wd/eliDtn1SND25J4DnH0HsQic3zFGfaIm9A3CTteksp8zGAy4+Xd+V+LPT7eFcH+eNM44rt
+A0uUS5hlhvK99gAewAN4AA/gAfyrgL8ByqMQqLYlkB0AAAAASUVORK5CYII=
+
+------=_NextPart_000_002F_01CA6831.5B56ECB0--
+
+
+From - Wed Nov 18 11:57:33 2009
+X-Account-Key: account2
+X-UIDL: UID13-1258400844
+X-Mozilla-Status: 0003
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <pat@m57.biz>
+X-Original-To: charlie@m57.biz
+Delivered-To: x10025127@homiemail-mx8.g.dreamhost.com
+Received: from mustang.nps.edu (mustang.nps.edu [205.155.65.61])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by homiemail-mx8.g.dreamhost.com (Postfix) with ESMTPS id 465D172C085
+	for <charlie@m57.biz>; Wed, 18 Nov 2009 09:29:10 -0800 (PST)
+X-ASG-Debug-ID: 1258565349-3f9c08550001-zVRvyy
+Received: from domex (domex.nps.edu [205.155.65.103]) by mustang.nps.edu with ESMTP id cA1y9SpJbW3SAH7B; Wed, 18 Nov 2009 09:29:09 -0800 (PST)
+X-Barracuda-Envelope-From: pat@m57.biz
+Received: from localhost (localhost [127.0.0.1])
+	by domex (Postfix) with ESMTP id 1F4F52AE33C;
+	Wed, 18 Nov 2009 09:26:15 -0800 (PST)
+X-Virus-Scanned: amavisd-new at nps.edu
+Received: from domex ([127.0.0.1])
+	by localhost (domex.nps.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id tGwQNI8f3hWI; Wed, 18 Nov 2009 09:26:15 -0800 (PST)
+Received: from m57pat (unknown [192.168.1.103])
+	by domex (Postfix) with ESMTPS id 07C872AE333;
+	Wed, 18 Nov 2009 09:26:15 -0800 (PST)
+Message-ID: <941C9DB33FCE45B7848E97D30E37ABD2@m57pat>
+From: "Pat McGoo" <pat@m57.biz>
+To: <jo@m57.biz>,
+	<charlie@m57.biz>
+X-ASG-Orig-Subj: Google patent
+Subject: Google patent
+Date: Wed, 18 Nov 2009 09:29:57 -0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0036_01CA6831.B18AF2C0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5843
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5579
+X-Barracuda-Connect: domex.nps.edu[205.155.65.103]
+X-Barracuda-Start-Time: 1258565349
+X-Barracuda-URL: http://mustang.nps.edu:80/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at nps.edu
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0036_01CA6831.B18AF2C0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Jo, Charlie,
+
+   I'm sure you already are using it, but check out google patent beta =
+for searches...   good stuff.
+
+Pat
+------=_NextPart_000_0036_01CA6831.B18AF2C0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.18852">
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT size=3D2 face=3DArial>Jo, Charlie,</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>&nbsp;&nbsp; I'm sure you already are =
+using it, but=20
+check out google patent beta for searches...&nbsp;&nbsp; good=20
+stuff.</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>Pat</FONT></DIV></BODY></HTML>
+
+------=_NextPart_000_0036_01CA6831.B18AF2C0--
+
+
+From - Wed Nov 18 11:57:33 2009
+X-Account-Key: account2
+X-UIDL: UID14-1258400844
+X-Mozilla-Status: 0011
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <terry@m57.biz>
+X-Original-To: charlie@m57.biz
+Delivered-To: x10025127@homiemail-mx7.g.dreamhost.com
+Received: from mustang.nps.edu (mustang.nps.edu [205.155.65.61])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by homiemail-mx7.g.dreamhost.com (Postfix) with ESMTPS id 3F586CF3AD
+	for <charlie@m57.biz>; Wed, 18 Nov 2009 09:39:57 -0800 (PST)
+X-ASG-Debug-ID: 1258565996-3f9c0ac20001-zVRvyy
+Received: from domex (domex.nps.edu [205.155.65.103]) by mustang.nps.edu with ESMTP id aZnzw6dWabAY4Nhr; Wed, 18 Nov 2009 09:39:56 -0800 (PST)
+X-Barracuda-Envelope-From: terry@m57.biz
+Received: from localhost (localhost [127.0.0.1])
+	by domex (Postfix) with ESMTP id F2AD02AE366;
+	Wed, 18 Nov 2009 09:37:01 -0800 (PST)
+X-Virus-Scanned: amavisd-new at nps.edu
+Received: from domex ([127.0.0.1])
+	by localhost (domex.nps.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id DCtNBI0zU-X4; Wed, 18 Nov 2009 09:37:01 -0800 (PST)
+Received: from M57Terry (unknown [192.168.1.105])
+	by domex (Postfix) with ESMTPS id D94552AE35D;
+	Wed, 18 Nov 2009 09:37:01 -0800 (PST)
+Message-ID: <E8A70E2451914E1EA49EE30C68277385@M57Terry>
+From: "Terry Johnson" <terry@m57.biz>
+To: <jo@m57.biz>,
+	<charlie@m57.biz>
+References: <98CC40FE46EA4F9CB82A95B0E7634C9A@m57pat>
+In-Reply-To: <98CC40FE46EA4F9CB82A95B0E7634C9A@m57pat>
+X-ASG-Orig-Subj: Re: COFFEE
+Subject: Re: COFFEE
+Date: Wed, 18 Nov 2009 09:39:25 -0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0009_01CA6833.04111690"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Windows Mail 6.0.6002.18005
+X-MimeOLE: Produced By Microsoft MimeOLE V6.0.6002.18005
+X-Barracuda-Connect: domex.nps.edu[205.155.65.103]
+X-Barracuda-Start-Time: 1258565996
+X-Barracuda-URL: http://mustang.nps.edu:80/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at nps.edu
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0009_01CA6833.04111690
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Coffee Cinnamon Apple? Is there such a flavor?  And what is a whisper of =
+cream?
+
+I feel for you Jo.  That sucks that you have to go and run such a =
+ridiculous shopping errand.
+
+-Terry
+  ----- Original Message -----=20
+  From: Pat McGoo=20
+  To: jo@m57.biz ; charlie@m57.biz ; terry@m57.biz=20
+  Sent: Wednesday, November 18, 2009 9:03 AM
+  Subject: COFFEE
+
+
+  Charlie, Terry,
+
+      just checking up on your preferences for coffee - jo is going =
+shopping tomorrow, let us know what you want.
+
+  Jo, I like my coffee cinnamon apple flavor with just a whisper of =
+cream - be sure to get the heavy whipping cream, NOT the half and half.  =
+See if they have any of those nice pumpkin muffins, too.
+
+  Pat
+------=_NextPart_000_0009_01CA6833.04111690
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.18852">
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT size=3D2 face=3DArial>Coffee Cinnamon Apple? Is there such a=20
+flavor?&nbsp; And what is a whisper of cream?</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>I feel for you Jo.&nbsp; That sucks =
+that you have=20
+to go and run such a ridiculous shopping errand.</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>-Terry</FONT></DIV>
+<BLOCKQUOTE=20
+style=3D"BORDER-LEFT: #000000 2px solid; PADDING-LEFT: 5px; =
+PADDING-RIGHT: 0px; MARGIN-LEFT: 5px; MARGIN-RIGHT: 0px"=20
+dir=3Dltr>
+  <DIV style=3D"FONT: 10pt arial">----- Original Message ----- </DIV>
+  <DIV=20
+  style=3D"FONT: 10pt arial; BACKGROUND: #e4e4e4; font-color: =
+black"><B>From:</B>=20
+  <A title=3Dpat@m57.biz href=3D"mailto:pat@m57.biz">Pat McGoo</A> =
+</DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>To:</B> <A title=3Djo@m57.biz=20
+  href=3D"mailto:jo@m57.biz">jo@m57.biz</A> ; <A title=3Dcharlie@m57.biz =
+
+  href=3D"mailto:charlie@m57.biz">charlie@m57.biz</A> ; <A =
+title=3Dterry@m57.biz=20
+  href=3D"mailto:terry@m57.biz">terry@m57.biz</A> </DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>Sent:</B> Wednesday, November 18, =
+2009 9:03=20
+  AM</DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>Subject:</B> COFFEE</DIV>
+  <DIV><BR></DIV>
+  <DIV><FONT size=3D2 face=3DArial>Charlie, Terry,</FONT></DIV>
+  <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+  <DIV><FONT size=3D2 face=3DArial>&nbsp;&nbsp;&nbsp; just checking up =
+on your=20
+  preferences for coffee - jo is going shopping tomorrow, let us know =
+what you=20
+  want.</FONT></DIV>
+  <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+  <DIV><FONT size=3D2 face=3DArial>Jo, I like my coffee cinnamon apple =
+flavor with=20
+  just a whisper of cream - be sure to get the heavy whipping cream, NOT =
+the=20
+  half and half.&nbsp; See if they have any of those nice pumpkin =
+muffins,=20
+  too.</FONT></DIV>
+  <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+  <DIV><FONT size=3D2 =
+face=3DArial>Pat</FONT></DIV></BLOCKQUOTE></BODY></HTML>
+
+------=_NextPart_000_0009_01CA6833.04111690--
+
+
+From - Wed Nov 18 11:57:33 2009
+X-Account-Key: account2
+X-UIDL: UID15-1258400844
+X-Mozilla-Status: 0011
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <terry@m57.biz>
+X-Original-To: charlie@m57.biz
+Delivered-To: x10025127@homiemail-mx8.g.dreamhost.com
+Received: from mustang.nps.edu (mustang.nps.edu [205.155.65.61])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by homiemail-mx8.g.dreamhost.com (Postfix) with ESMTPS id 9550072C0A1
+	for <charlie@m57.biz>; Wed, 18 Nov 2009 09:40:55 -0800 (PST)
+X-ASG-Debug-ID: 1258566055-3f9e0a9f0001-zVRvyy
+Received: from domex (domex.nps.edu [205.155.65.103]) by mustang.nps.edu with ESMTP id gQC93DblCRzWcfNP; Wed, 18 Nov 2009 09:40:55 -0800 (PST)
+X-Barracuda-Envelope-From: terry@m57.biz
+Received: from localhost (localhost [127.0.0.1])
+	by domex (Postfix) with ESMTP id 40AE92AE374;
+	Wed, 18 Nov 2009 09:38:00 -0800 (PST)
+X-Virus-Scanned: amavisd-new at nps.edu
+Received: from domex ([127.0.0.1])
+	by localhost (domex.nps.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id euVgMSbE3aju; Wed, 18 Nov 2009 09:38:00 -0800 (PST)
+Received: from M57Terry (unknown [192.168.1.105])
+	by domex (Postfix) with ESMTPS id 32A3E2AE36B;
+	Wed, 18 Nov 2009 09:38:00 -0800 (PST)
+Message-ID: <30B5267D250B450985F5C2A65DF6262E@M57Terry>
+From: "Terry Johnson" <terry@m57.biz>
+To: "Pat McGoo" <pat@m57.biz>,
+	<jo@m57.biz>,
+	<charlie@m57.biz>
+References: <98CC40FE46EA4F9CB82A95B0E7634C9A@m57pat>
+In-Reply-To: <98CC40FE46EA4F9CB82A95B0E7634C9A@m57pat>
+X-ASG-Orig-Subj: Re: COFFEE
+Subject: Re: COFFEE
+Date: Wed, 18 Nov 2009 09:40:25 -0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0015_01CA6833.27D39940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Windows Mail 6.0.6002.18005
+X-MimeOLE: Produced By Microsoft MimeOLE V6.0.6002.18005
+X-Barracuda-Connect: domex.nps.edu[205.155.65.103]
+X-Barracuda-Start-Time: 1258566055
+X-Barracuda-URL: http://mustang.nps.edu:80/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at nps.edu
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0015_01CA6833.27D39940
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Normal coffee works for me.  Nothing special.
+
+Thanks,
+Terry
+  ----- Original Message -----=20
+  From: Pat McGoo=20
+  To: jo@m57.biz ; charlie@m57.biz ; terry@m57.biz=20
+  Sent: Wednesday, November 18, 2009 9:03 AM
+  Subject: COFFEE
+
+
+  Charlie, Terry,
+
+      just checking up on your preferences for coffee - jo is going =
+shopping tomorrow, let us know what you want.
+
+  Jo, I like my coffee cinnamon apple flavor with just a whisper of =
+cream - be sure to get the heavy whipping cream, NOT the half and half.  =
+See if they have any of those nice pumpkin muffins, too.
+
+  Pat
+------=_NextPart_000_0015_01CA6833.27D39940
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.18852">
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT size=3D2 face=3DArial>Normal coffee works for me.&nbsp; =
+Nothing=20
+special.</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV><FONT size=3D2 face=3DArial>Thanks,</FONT></DIV>
+<DIV><FONT size=3D2 face=3DArial>Terry</FONT></DIV>
+<BLOCKQUOTE=20
+style=3D"BORDER-LEFT: #000000 2px solid; PADDING-LEFT: 5px; =
+PADDING-RIGHT: 0px; MARGIN-LEFT: 5px; MARGIN-RIGHT: 0px"=20
+dir=3Dltr>
+  <DIV style=3D"FONT: 10pt arial">----- Original Message ----- </DIV>
+  <DIV=20
+  style=3D"FONT: 10pt arial; BACKGROUND: #e4e4e4; font-color: =
+black"><B>From:</B>=20
+  <A title=3Dpat@m57.biz href=3D"mailto:pat@m57.biz">Pat McGoo</A> =
+</DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>To:</B> <A title=3Djo@m57.biz=20
+  href=3D"mailto:jo@m57.biz">jo@m57.biz</A> ; <A title=3Dcharlie@m57.biz =
+
+  href=3D"mailto:charlie@m57.biz">charlie@m57.biz</A> ; <A =
+title=3Dterry@m57.biz=20
+  href=3D"mailto:terry@m57.biz">terry@m57.biz</A> </DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>Sent:</B> Wednesday, November 18, =
+2009 9:03=20
+  AM</DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>Subject:</B> COFFEE</DIV>
+  <DIV><BR></DIV>
+  <DIV><FONT size=3D2 face=3DArial>Charlie, Terry,</FONT></DIV>
+  <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+  <DIV><FONT size=3D2 face=3DArial>&nbsp;&nbsp;&nbsp; just checking up =
+on your=20
+  preferences for coffee - jo is going shopping tomorrow, let us know =
+what you=20
+  want.</FONT></DIV>
+  <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+  <DIV><FONT size=3D2 face=3DArial>Jo, I like my coffee cinnamon apple =
+flavor with=20
+  just a whisper of cream - be sure to get the heavy whipping cream, NOT =
+the=20
+  half and half.&nbsp; See if they have any of those nice pumpkin =
+muffins,=20
+  too.</FONT></DIV>
+  <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+  <DIV><FONT size=3D2 =
+face=3DArial>Pat</FONT></DIV></BLOCKQUOTE></BODY></HTML>
+
+------=_NextPart_000_0015_01CA6833.27D39940--
+
+
+From - Wed Nov 18 11:57:33 2009
+X-Account-Key: account2
+X-UIDL: UID16-1258400844
+X-Mozilla-Status: 0011
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <jo@m57.biz>
+X-Original-To: charlie@m57.biz
+Delivered-To: x10025127@homiemail-mx7.g.dreamhost.com
+Received: from mustang.nps.edu (mustang.nps.edu [205.155.65.61])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by homiemail-mx7.g.dreamhost.com (Postfix) with ESMTPS id C16FACF3AB
+	for <charlie@m57.biz>; Wed, 18 Nov 2009 10:01:28 -0800 (PST)
+X-ASG-Debug-ID: 1258567288-3f9c0da40001-zVRvyy
+Received: from domex (domex.nps.edu [205.155.65.103]) by mustang.nps.edu with ESMTP id zNoQQ02s7DyyHsSw for <charlie@m57.biz>; Wed, 18 Nov 2009 10:01:28 -0800 (PST)
+X-Barracuda-Envelope-From: jo@m57.biz
+Received: from localhost (localhost [127.0.0.1])
+	by domex (Postfix) with ESMTP id A102B2AE3CD
+	for <charlie@m57.biz>; Wed, 18 Nov 2009 09:58:33 -0800 (PST)
+X-Virus-Scanned: amavisd-new at nps.edu
+Received: from domex ([127.0.0.1])
+	by localhost (domex.nps.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ETN6kw69AiCL for <charlie@m57.biz>;
+	Wed, 18 Nov 2009 09:58:33 -0800 (PST)
+Received: from m57jo (unknown [192.168.1.102])
+	by domex (Postfix) with ESMTPS id 8B0342AE3CA
+	for <charlie@m57.biz>; Wed, 18 Nov 2009 09:58:33 -0800 (PST)
+Message-ID: <E924606EBD264675BAC32E2D924D0D23@m57jo>
+From: "Jo Smith" <jo@m57.biz>
+To: "Charlie" <charlie@m57.biz>
+References: <4B02F159.2040405@m57.biz>
+X-ASG-Orig-Subj: Re: What's wrong with Pat
+Subject: Re: What's wrong with Pat
+Date: Wed, 18 Nov 2009 10:01:50 -0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=response
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5843
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5579
+X-Barracuda-Connect: domex.nps.edu[205.155.65.103]
+X-Barracuda-Start-Time: 1258567288
+X-Barracuda-URL: http://mustang.nps.edu:80/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at nps.edu
+
+yeah, he's weird.  not sure what's wrong with him.
+
+----- Original Message ----- 
+From: "Charlie" <charlie@m57.biz>
+To: <jo@m57.biz>
+Sent: Tuesday, November 17, 2009 10:54 AM
+Subject: What's wrong with Pat
+
+
+> Hey Jo,
+> 
+> Don't you think Pat is a weird boss?  I think there is something funny 
+> about him.  What do you think?
+> 
+> Charlie
+
+From - Wed Nov 18 11:57:33 2009
+X-Account-Key: account2
+X-UIDL: UID17-1258400844
+X-Mozilla-Status: 0011
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <jo@m57.biz>
+X-Original-To: charlie@m57.biz
+Delivered-To: x10025127@homiemail-mx7.g.dreamhost.com
+Received: from mustang.nps.edu (mustang.nps.edu [205.155.65.61])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by homiemail-mx7.g.dreamhost.com (Postfix) with ESMTPS id C0267CF3B4
+	for <charlie@m57.biz>; Wed, 18 Nov 2009 10:03:43 -0800 (PST)
+X-ASG-Debug-ID: 1258567423-3f9b0df70001-zVRvyy
+Received: from domex (domex.nps.edu [205.155.65.103]) by mustang.nps.edu with ESMTP id G0PZEsBOGTzNCYSF for <charlie@m57.biz>; Wed, 18 Nov 2009 10:03:43 -0800 (PST)
+X-Barracuda-Envelope-From: jo@m57.biz
+Received: from localhost (localhost [127.0.0.1])
+	by domex (Postfix) with ESMTP id 7398E2AE3E2
+	for <charlie@m57.biz>; Wed, 18 Nov 2009 10:00:48 -0800 (PST)
+X-Virus-Scanned: amavisd-new at nps.edu
+Received: from domex ([127.0.0.1])
+	by localhost (domex.nps.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 2wGUh1HNNP3y for <charlie@m57.biz>;
+	Wed, 18 Nov 2009 10:00:48 -0800 (PST)
+Received: from m57jo (unknown [192.168.1.102])
+	by domex (Postfix) with ESMTPS id 5A40D2AE3D9
+	for <charlie@m57.biz>; Wed, 18 Nov 2009 10:00:48 -0800 (PST)
+Message-ID: <B5E1BD4C7479440399268B927EA0BE07@m57jo>
+From: "Jo Smith" <jo@m57.biz>
+To: <charlie@m57.biz>
+References: <8B58A07190B944F4837568AB8B57486E@m57pat>
+X-ASG-Orig-Subj: Re: Inventions / Patents
+Subject: Re: Inventions / Patents
+Date: Wed, 18 Nov 2009 10:04:09 -0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0042_01CA6836.78C04670"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5843
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5579
+X-Barracuda-Connect: domex.nps.edu[205.155.65.103]
+X-Barracuda-Start-Time: 1258567423
+X-Barracuda-URL: http://mustang.nps.edu:80/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at nps.edu
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0042_01CA6836.78C04670
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+what is wrong with this guy?
+  ----- Original Message -----=20
+  From: Pat McGoo=20
+  To: charlie@m57.biz ; jo@m57.biz=20
+  Sent: Tuesday, November 17, 2009 10:39 AM
+  Subject: Inventions / Patents
+
+
+  Jo, Charlie,
+
+      I have an idea for an invention that I am very enthusiastic about. =
+ If you get time from your other responsibilities here or there, please =
+take a minute two start seeing if this has been done before with some =
+searches. =20
+
+     You know those little plastic golf balls filled with liquid that =
+you freeze and use as ice cubes?  I want to do jacks.  You know, like =
+jacks that little kids play with?  And a ball to go with it.  The =
+thinking is, jacks have a lot more surface area than balls - imagine how =
+quickly they would cool down a frosty drink !  And, here's the best =
+part, the kids could play with them while they were not being used for =
+the primary purpose.
+
+  I think this shows a lot of promise - let me know if you find =
+anything.
+
+  Thanks
+
+  Pat
+------=_NextPart_000_0042_01CA6836.78C04670
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.18852">
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT size=3D2 face=3DArial>what is wrong with this =
+guy?</FONT></DIV>
+<BLOCKQUOTE=20
+style=3D"BORDER-LEFT: #000000 2px solid; PADDING-LEFT: 5px; =
+PADDING-RIGHT: 0px; MARGIN-LEFT: 5px; MARGIN-RIGHT: 0px"=20
+dir=3Dltr>
+  <DIV style=3D"FONT: 10pt arial">----- Original Message ----- </DIV>
+  <DIV=20
+  style=3D"FONT: 10pt arial; BACKGROUND: #e4e4e4; font-color: =
+black"><B>From:</B>=20
+  <A title=3Dpat@m57.biz href=3D"mailto:pat@m57.biz">Pat McGoo</A> =
+</DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>To:</B> <A title=3Dcharlie@m57.biz=20
+  href=3D"mailto:charlie@m57.biz">charlie@m57.biz</A> ; <A =
+title=3Djo@m57.biz=20
+  href=3D"mailto:jo@m57.biz">jo@m57.biz</A> </DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>Sent:</B> Tuesday, November 17, =
+2009 10:39=20
+  AM</DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>Subject:</B> Inventions / =
+Patents</DIV>
+  <DIV><BR></DIV>
+  <DIV><FONT size=3D2 face=3DArial>Jo, Charlie,</FONT></DIV>
+  <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+  <DIV><FONT size=3D2 face=3DArial>&nbsp;&nbsp;&nbsp; I have an idea for =
+an=20
+  invention that I am very enthusiastic about.&nbsp; If you get time =
+from your=20
+  other responsibilities here or there, please take a minute two start =
+seeing if=20
+  this has been done before with some searches.&nbsp; </FONT></DIV>
+  <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+  <DIV><FONT size=3D2 face=3DArial>&nbsp;&nbsp; You know those little =
+plastic golf=20
+  balls filled with liquid that you freeze and use as ice cubes?&nbsp; I =
+want to=20
+  do jacks.&nbsp; You know, like jacks that little kids play with?&nbsp; =
+And a=20
+  ball to go with it.&nbsp; The thinking is, jacks have a lot more =
+surface area=20
+  than balls - imagine how quickly they would cool down a frosty drink =
+!&nbsp;=20
+  And, here's the best part, the kids could play with them while they =
+were not=20
+  being used for the primary purpose.</FONT></DIV>
+  <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+  <DIV><FONT size=3D2 face=3DArial>I think this shows a lot of promise - =
+let me know=20
+  if you find anything.</FONT></DIV>
+  <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+  <DIV><FONT size=3D2 face=3DArial>Thanks</FONT></DIV>
+  <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+  <DIV><FONT size=3D2 =
+face=3DArial>Pat</FONT></DIV></BLOCKQUOTE></BODY></HTML>
+
+------=_NextPart_000_0042_01CA6836.78C04670--
+
+
+From - Wed Nov 18 11:57:34 2009
+X-Account-Key: account2
+X-UIDL: UID18-1258400844
+X-Mozilla-Status: 0011
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <jo@m57.biz>
+X-Original-To: charlie@m57.biz
+Delivered-To: x10025127@homiemail-mx12.g.dreamhost.com
+Received: from mustang.nps.edu (mustang.nps.edu [205.155.65.61])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by homiemail-mx12.g.dreamhost.com (Postfix) with ESMTPS id 8EE3F278031
+	for <charlie@m57.biz>; Wed, 18 Nov 2009 10:04:24 -0800 (PST)
+X-ASG-Debug-ID: 1258567464-3f9e0de20001-zVRvyy
+Received: from domex (domex.nps.edu [205.155.65.103]) by mustang.nps.edu with ESMTP id XElwIk6IwzBFz76L; Wed, 18 Nov 2009 10:04:24 -0800 (PST)
+X-Barracuda-Envelope-From: jo@m57.biz
+Received: from localhost (localhost [127.0.0.1])
+	by domex (Postfix) with ESMTP id 4FADD2AE3EC;
+	Wed, 18 Nov 2009 10:01:29 -0800 (PST)
+X-Virus-Scanned: amavisd-new at nps.edu
+Received: from domex ([127.0.0.1])
+	by localhost (domex.nps.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aUJ1yKhBPQpv; Wed, 18 Nov 2009 10:01:29 -0800 (PST)
+Received: from m57jo (unknown [192.168.1.102])
+	by domex (Postfix) with ESMTPS id 43FDE2AE3E3;
+	Wed, 18 Nov 2009 10:01:29 -0800 (PST)
+Message-ID: <FF0E8FBDD3354703ABE4093ADCD81462@m57jo>
+From: "Jo Smith" <jo@m57.biz>
+To: "Terry Johnson" <terry@m57.biz>,
+	<charlie@m57.biz>
+References: <98CC40FE46EA4F9CB82A95B0E7634C9A@m57pat> <E8A70E2451914E1EA49EE30C68277385@M57Terry>
+X-ASG-Orig-Subj: Re: COFFEE
+Subject: Re: COFFEE
+Date: Wed, 18 Nov 2009 10:04:50 -0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_004F_01CA6836.913060F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5843
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5579
+X-Barracuda-Connect: domex.nps.edu[205.155.65.103]
+X-Barracuda-Start-Time: 1258567464
+X-Barracuda-URL: http://mustang.nps.edu:80/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at nps.edu
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_004F_01CA6836.913060F0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+yeah, not sure this stuff falls under my job description.  oh well.
+  ----- Original Message -----=20
+  From: Terry Johnson=20
+  To: jo@m57.biz ; charlie@m57.biz=20
+  Sent: Wednesday, November 18, 2009 9:39 AM
+  Subject: Re: COFFEE
+
+
+  Coffee Cinnamon Apple? Is there such a flavor?  And what is a whisper =
+of cream?
+
+  I feel for you Jo.  That sucks that you have to go and run such a =
+ridiculous shopping errand.
+
+  -Terry
+    ----- Original Message -----=20
+    From: Pat McGoo=20
+    To: jo@m57.biz ; charlie@m57.biz ; terry@m57.biz=20
+    Sent: Wednesday, November 18, 2009 9:03 AM
+    Subject: COFFEE
+
+
+    Charlie, Terry,
+
+        just checking up on your preferences for coffee - jo is going =
+shopping tomorrow, let us know what you want.
+
+    Jo, I like my coffee cinnamon apple flavor with just a whisper of =
+cream - be sure to get the heavy whipping cream, NOT the half and half.  =
+See if they have any of those nice pumpkin muffins, too.
+
+    Pat
+------=_NextPart_000_004F_01CA6836.913060F0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Diso-8859-1" =
+http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.18852">
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT size=3D2 face=3DArial>yeah, not sure this stuff falls under =
+my job=20
+description.&nbsp; oh well.</FONT></DIV>
+<BLOCKQUOTE=20
+style=3D"BORDER-LEFT: #000000 2px solid; PADDING-LEFT: 5px; =
+PADDING-RIGHT: 0px; MARGIN-LEFT: 5px; MARGIN-RIGHT: 0px"=20
+dir=3Dltr>
+  <DIV style=3D"FONT: 10pt arial">----- Original Message ----- </DIV>
+  <DIV=20
+  style=3D"FONT: 10pt arial; BACKGROUND: #e4e4e4; font-color: =
+black"><B>From:</B>=20
+  <A title=3Dterry@m57.biz href=3D"mailto:terry@m57.biz">Terry =
+Johnson</A> </DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>To:</B> <A title=3Djo@m57.biz=20
+  href=3D"mailto:jo@m57.biz">jo@m57.biz</A> ; <A title=3Dcharlie@m57.biz =
+
+  href=3D"mailto:charlie@m57.biz">charlie@m57.biz</A> </DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>Sent:</B> Wednesday, November 18, =
+2009 9:39=20
+  AM</DIV>
+  <DIV style=3D"FONT: 10pt arial"><B>Subject:</B> Re: COFFEE</DIV>
+  <DIV><BR></DIV>
+  <DIV><FONT size=3D2 face=3DArial>Coffee Cinnamon Apple? Is there such =
+a=20
+  flavor?&nbsp; And what is a whisper of cream?</FONT></DIV>
+  <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+  <DIV><FONT size=3D2 face=3DArial>I feel for you Jo.&nbsp; That sucks =
+that you have=20
+  to go and run such a ridiculous shopping errand.</FONT></DIV>
+  <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+  <DIV><FONT size=3D2 face=3DArial>-Terry</FONT></DIV>
+  <BLOCKQUOTE=20
+  style=3D"BORDER-LEFT: #000000 2px solid; PADDING-LEFT: 5px; =
+PADDING-RIGHT: 0px; MARGIN-LEFT: 5px; MARGIN-RIGHT: 0px"=20
+  dir=3Dltr>
+    <DIV style=3D"FONT: 10pt arial">----- Original Message ----- </DIV>
+    <DIV=20
+    style=3D"FONT: 10pt arial; BACKGROUND: #e4e4e4; font-color: =
+black"><B>From:</B>=20
+    <A title=3Dpat@m57.biz href=3D"mailto:pat@m57.biz">Pat McGoo</A> =
+</DIV>
+    <DIV style=3D"FONT: 10pt arial"><B>To:</B> <A title=3Djo@m57.biz=20
+    href=3D"mailto:jo@m57.biz">jo@m57.biz</A> ; <A =
+title=3Dcharlie@m57.biz=20
+    href=3D"mailto:charlie@m57.biz">charlie@m57.biz</A> ; <A =
+title=3Dterry@m57.biz=20
+    href=3D"mailto:terry@m57.biz">terry@m57.biz</A> </DIV>
+    <DIV style=3D"FONT: 10pt arial"><B>Sent:</B> Wednesday, November 18, =
+2009 9:03=20
+    AM</DIV>
+    <DIV style=3D"FONT: 10pt arial"><B>Subject:</B> COFFEE</DIV>
+    <DIV><BR></DIV>
+    <DIV><FONT size=3D2 face=3DArial>Charlie, Terry,</FONT></DIV>
+    <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+    <DIV><FONT size=3D2 face=3DArial>&nbsp;&nbsp;&nbsp; just checking up =
+on your=20
+    preferences for coffee - jo is going shopping tomorrow, let us know =
+what you=20
+    want.</FONT></DIV>
+    <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+    <DIV><FONT size=3D2 face=3DArial>Jo, I like my coffee cinnamon apple =
+flavor with=20
+    just a whisper of cream - be sure to get the heavy whipping cream, =
+NOT the=20
+    half and half.&nbsp; See if they have any of those nice pumpkin =
+muffins,=20
+    too.</FONT></DIV>
+    <DIV><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+    <DIV><FONT size=3D2=20
+face=3DArial>Pat</FONT></DIV></BLOCKQUOTE></BLOCKQUOTE></BODY></HTML>
+
+------=_NextPart_000_004F_01CA6836.913060F0--
+
+
